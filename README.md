@@ -32,7 +32,7 @@
 ### $\large{\color{Purple}1.3 \underline{\textrm{How data add value to the business?}}}$
 
 <p align="center">
-    <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/f6860ebb-58e1-432f-b13d-f35f65f2d1e7" width=50%/>
+    <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/9b993312-d87c-45a8-87c3-cf04540ac34d" width=50%/>
     <br>
 </p>
 

@@ -37,3 +37,10 @@
 </p>
 
 ### $\large{\color{Purple}1.4 \underline{\textrm{Why data is important?}}}$
+* The data helps in making better decisions
+* Data helps in solve problem by finding the reason for underperformance.
+* Data helps one to evaluate the performance.
+*  Data helps one improve processes.
+* Data also can help one understand the consumers and the markets.
+
+### $\large{\color{Purple}2. \underline{\textrm{Define data analytics and its types}}}$

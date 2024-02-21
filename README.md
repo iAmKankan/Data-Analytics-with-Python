@@ -10,3 +10,9 @@
     - Ordinal
     - Interval and
     - Ratio
+
+### $\Large{\color{Purple}\underline{\textrm{1. Define Data and its importance}}}$
+* Variable, Measurement and Data
+* What is generating so much data?
+* How data add value to the business?
+* Why data is important?

@@ -6,6 +6,6 @@ $\large{\color{blue} Note\ Books:}$
 * $\large{\color{Purple}\textrm{Central Tendency}}$
 * $\large{\color{Purple}\textrm{Measures of Dispersion}}$
 
-### $\large{\color{Purple}\underline{\textrm{Measures of Central Tendency}}}$
+### 🔲 $\large{\color{Purple}\underline{\textrm{Measures of Central Tendency}}}$
 * **Measure of central tendency** yield information about **particular places** or **locations** in a group of numbers.
 * A **single number** to describe the **characteristics** of a set of data.

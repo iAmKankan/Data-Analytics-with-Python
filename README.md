@@ -1,7 +1,12 @@
 ### $\Large{\color{blue}\underline{\mathcal{Data\ Analysis\ with\ Python:}}}$
-### $\Large{\color{Purple}\underline{\textrm{Objective of the course}}}$
-$\Large{\color{Purple}\bullet}$  The principle focus of this course is to introduce conceptual understanding using simple and practical examples rather than repetitive and point click mentality
-
-$\Large{\color{Purple}\bullet}$  This course should make you comfortable using analytics in your career and your life
-
-$\Large{\color{Purple}\bullet}$  You will know how to work with real data, and might have learned many different methodologies but choosing the right methodology is important
+### $\Large{\color{Purple}\underline{\textrm{Learning objectives}}}$
+1. Define data and its importance.
+2. Define data analytics and its types.
+3. Explain why analytics is important in today's business environment.
+4. Explain how statistics, analytics and data science are interrelated.
+5. Why python?
+6. Explain the four different levels of Data:
+    - Nominal
+    - Ordinal
+    - Interval and
+    - Ratio

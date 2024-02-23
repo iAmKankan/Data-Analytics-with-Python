@@ -29,3 +29,11 @@ $\large{\color{blue} Note\ Books:}$
 Measure of central tendency yield information about particular places or locations in a group of numbers. Suppose there are a group of number is there, that number group of numbers has to be replaced by a single number that single number we can call it as central tendency. That is a single number to describe the characteristics of a set of data.
 
 
+### $\large{\color{Purple}1. \underline{\textrm{Arithmetic mean}}}$
+
+* Commonly called 'the mean'
+* It is the average of a group of numbers
+* Applicable for interval and ratio data
+* Not applicable for nominal or ordinal data
+* Affected by each value in the data set, including extreme values
+* Computed by summing all values in the data set and dividing the sum by the number of values in the data set

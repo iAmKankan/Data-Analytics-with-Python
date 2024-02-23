@@ -3,7 +3,7 @@ $\large{\color{blue} Note\ Books:}$
 
 ### ⬛ $\Large{\color{blue}\underline{\mathcal{Central\ Tendency\ and\ Dispersion}}}$
 ### $\large{\color{Purple}\textrm{Objective:}}$
-* $\large{\color{Purple}\textrm{Central Tendency}}$ or  $\large{\color{Brown}\underline{\textrm{measures of location }}}$
+* $\large{\color{Purple}\textrm{Central Tendency}}$ or  $\large{\color{Purple}\textrm{measures of location }}$
 * $\large{\color{Purple}\textrm{Measures of Dispersion}}$
 
 ### 🔲 $\large{\color{Purple}\underline{\textrm{Measures of Central Tendency}}}$
@@ -13,8 +13,8 @@ $\large{\color{blue} Note\ Books:}$
 ### We are going to cover
 <div align="center">
   
-| $\large{\color{Brown}\mathrm{\underline{Central tendency}}}$|  $\large{\color{Brown}\underline{\textrm{Dispersion}}}$|
-|:------------:|:------------:|
+| $\large{\color{Brown}\underline{\textrm{Central tendency}}}$|  $\large{\color{Brown}\underline{\textrm{Measures of Dispersion}}}$|
+|:------------|:------------|
 | $\large{\color{Purple}\textrm{Arithmetic mean}}$|$\large{\color{Purple}\textrm{Skewness}}$|
 | $\large{\color{Purple}\textrm{Weighted mean}}$|$\large{\color{Purple}\textrm{Kurtosis}}$|
 | $\large{\color{Purple}\textrm{Median}}$|$\large{\color{Purple}\textrm{Interquartile range}}$|

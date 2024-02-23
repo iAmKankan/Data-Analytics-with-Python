@@ -5,7 +5,7 @@ $\large{\color{blue} Note\ Books:}$
 ### $\large{\color{Purple}\textrm{Objective:}}$
 * $\large{\color{Purple}\textrm{Central Tendency}}$ or  $\large{\color{Purple}\textrm{measures of location }}$
 * $\large{\color{Purple}\textrm{Measures of Dispersion}}$
-
+### <ins><b><i>We are going to cover</i></b></ins>
 
 <div align="center">
   
@@ -19,13 +19,13 @@ $\large{\color{blue} Note\ Books:}$
 ||$\large{\color{Purple}\textrm{Variance}}$|
 ||$\large{\color{Purple}\textrm{Coefficient of variation}}$|
 <br>
-<ins><b><i>We are going to cover</i></b></ins>
+
 </div>
 
 ### 🔲 $\large{\color{Purple}\underline{\textrm{Measures of Central Tendency}}}$
 * **Measure of central tendency** yield information about **particular places** or **locations** in a group of numbers.
 * A **single number** to describe the **characteristics** of a set of data.
 
-
+Measure of central tendency yield information about particular places or locations in a group of numbers. Suppose there are a group of number is there, that number group of numbers has to be replaced by a single number that single number we can call it as central tendency. That is a single number to describe the characteristics of a set of data.
 
 

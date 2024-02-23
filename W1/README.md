@@ -6,15 +6,11 @@ $\large{\color{blue} Note\ Books:}$
 * $\large{\color{Purple}\textrm{Central Tendency}}$ or  $\large{\color{Purple}\textrm{measures of location }}$
 * $\large{\color{Purple}\textrm{Measures of Dispersion}}$
 
-### 🔲 $\large{\color{Purple}\underline{\textrm{Measures of Central Tendency}}}$
-* **Measure of central tendency** yield information about **particular places** or **locations** in a group of numbers.
-* A **single number** to describe the **characteristics** of a set of data.
 
-### We are going to cover
 <div align="center">
   
 | $\large{\color{Brown}\underline{\textrm{Central tendency}}}$|  $\large{\color{Brown}\underline{\textrm{Measures of Dispersion}}}$|
-|:------------|:------------|
+|:-------------|:------------|
 | $\large{\color{Purple}\textrm{Arithmetic mean}}$|$\large{\color{Purple}\textrm{Skewness}}$|
 | $\large{\color{Purple}\textrm{Weighted mean}}$|$\large{\color{Purple}\textrm{Kurtosis}}$|
 | $\large{\color{Purple}\textrm{Median}}$|$\large{\color{Purple}\textrm{Interquartile range}}$|
@@ -22,7 +18,14 @@ $\large{\color{blue} Note\ Books:}$
 | |$\large{\color{Purple}\textrm{Range}}$|
 ||$\large{\color{Purple}\textrm{Variance}}$|
 ||$\large{\color{Purple}\textrm{Coefficient of variation}}$|
-
+<br>
+<ins><b><i>We are going to cover</i></b></ins>
 </div>
+
+### 🔲 $\large{\color{Purple}\underline{\textrm{Measures of Central Tendency}}}$
+* **Measure of central tendency** yield information about **particular places** or **locations** in a group of numbers.
+* A **single number** to describe the **characteristics** of a set of data.
+
+
 
 

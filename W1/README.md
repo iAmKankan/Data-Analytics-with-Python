@@ -33,8 +33,18 @@ Measure of central tendency yield information about **particular places** or **l
 
 * Commonly called 'the mean'
 * It is the average of a group of numbers
-* Applicable for interval and ratio data
-* Not applicable for nominal or ordinal data
-* Affected by each value in the data set, including extreme values
+* Applicable for **interval** and **ratio data**
+* Not applicable for **nominal** or **ordinal data**
+* Affected by each value in the data set, including **extreme values**
 * Computed by summing all values in the data set and dividing the sum by the number of values in the data set
 
+* One of the problem of the with the mean is that it is affected by the extreme values.
+* $\Large{\color{Purple} \mu}$ is used as a notation for mean.
+
+
+### $\large{\color{Purple}\underline{\textrm{Population mean}}}$
+
+$$\Large{\color{Purple} \begin{matrix*}[l]
+\mu &=& \dfrac{\sum X}{N}\\
+ &=& \dfrac{X_1+X_2+X3+\cdots+X_N}{N}\\
+\end{matrix*}}$$

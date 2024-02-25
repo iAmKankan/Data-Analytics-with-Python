@@ -51,3 +51,5 @@ $$\Large{\color{Purple} \begin{matrix*}[l]
  &=& \dfrac{94}{5}\\
   &=& 18.6\\
 \end{matrix*}}$$
+
+* So, **18.6** is the average of **24, 13, 19, 26, 11** these **5** numbers.

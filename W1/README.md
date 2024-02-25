@@ -58,8 +58,8 @@ $$\Large{\color{Purple} \begin{matrix*}[l]
 $\Large{\color{Purple} \bar{X}}$ is used as a notation for <ins><b>Sample mean</ins></b>.
 
 $$\Large{\color{Purple} \begin{matrix*}[l]
- \bar{X} &=& \dfrac{\sum X}{N}\\
- &=& \dfrac{X_1+X_2+X3+\cdots+X_N}{N}\\
+ \bar{X} &=& \dfrac{\sum X}{n}\\
+ &=& \dfrac{X_1+X_2+X3+\cdots+X_n}{n}\\
  &=& \dfrac{57+ 86+ 42+ 38+ 90+66}{6}\\
  &=& \dfrac{379}{6}\\
   &=& 63.167\\

@@ -38,12 +38,10 @@ Measure of central tendency yield information about **particular places** or **l
 * Affected by each value in the data set, including **extreme values**
 * Computed by summing all values in the data set and dividing the sum by the number of values in the data set
 
-* One of the problem of the with the mean is that it is affected by the extreme values.
-* $\Large{\color{Purple} \mu}$ is used as a notation for mean.
+One of the problem of the with the mean is that it is affected by the extreme values. 
 
-
-### $\large{\color{Purple}\underline{\textrm{Population mean}}}$
-
+### $\large{\color{Purple}\underline{\textrm{Population mean}}\Large \mu}$
+$\Large{\color{Purple} \mu}$ is used as a notation for <ins><b>Population mean</ins></b>.
 $$\Large{\color{Purple} \begin{matrix*}[l]
 \mu &=& \dfrac{\sum X}{N}\\
  &=& \dfrac{X_1+X_2+X3+\cdots+X_N}{N}\\
@@ -52,4 +50,5 @@ $$\Large{\color{Purple} \begin{matrix*}[l]
   &=& 18.6\\
 \end{matrix*}}$$
 
-* So, **18.6** is the average of **24, 13, 19, 26, 11** these **5** numbers.
+* **18.6** is the average of **24, 13, 19, 26, 11** these **5** numbers.
+* So, now the **18.6** can be replaced by these set 5 numbers. Just like suppose, in your class if you see the average mark is **60**. So the whole marks of all the students can be represented to be a single number that is **60**, **60** will give an idea about the **performance of the whole class**.

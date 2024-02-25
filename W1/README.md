@@ -40,8 +40,9 @@ Measure of central tendency yield information about **particular places** or **l
 
 One of the problem of the with the mean is that it is affected by the extreme values. 
 
-### $\large{\color{Purple}\underline{\textrm{Population mean}}\Large \mu}$
+### $\large{\color{Purple}\underline{\textrm{Population mean:}}\ \  \ \Large \mu}$
 $\Large{\color{Purple} \mu}$ is used as a notation for <ins><b>Population mean</ins></b>.
+
 $$\Large{\color{Purple} \begin{matrix*}[l]
 \mu &=& \dfrac{\sum X}{N}\\
  &=& \dfrac{X_1+X_2+X3+\cdots+X_N}{N}\\

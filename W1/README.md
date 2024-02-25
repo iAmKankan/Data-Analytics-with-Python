@@ -47,4 +47,7 @@ Measure of central tendency yield information about **particular places** or **l
 $$\Large{\color{Purple} \begin{matrix*}[l]
 \mu &=& \dfrac{\sum X}{N}\\
  &=& \dfrac{X_1+X_2+X3+\cdots+X_N}{N}\\
+ &=& \dfrac{24+ 13+ 19+ 26+ 11}{5}\\
+ &=& \dfrac{94}{5}\\
+  &=& 18.6\\
 \end{matrix*}}$$

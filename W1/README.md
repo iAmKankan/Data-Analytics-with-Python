@@ -53,3 +53,6 @@ $$\Large{\color{Purple} \begin{matrix*}[l]
 
 * **18.6** is the average of **24, 13, 19, 26, 11** these **5** numbers.
 * So, now the **18.6** can be replaced by these set 5 numbers. Just like suppose, in your class if you see the average mark is **60**. So the whole marks of all the students can be represented to be a single number that is **60**, **60** will give an idea about the **performance of the whole class**.
+
+### $\large{\color{Purple}\underline{\textrm{Sample mean:}}\ \  \ \Large \bar{X}}$
+$\Large{\color{Purple} \bar{X}}$ is used as a notation for <ins><b>Sample mean</ins></b>.

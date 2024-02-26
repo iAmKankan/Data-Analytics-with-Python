@@ -111,4 +111,4 @@ What the formula says $\large{\color{Purple}\mu = \dfrac{\sum f M}{\sum f}}$ it 
 * Sometimes we wish to average numbers, but we assign more importance or weight to some of the numbers.
 * The average you need is weighted average.
 
-Now we will go to the next central tendency that is the weighted average. Some time if you look at the previous values, the each value is given equal weightage. Suppose it is not always the case there may be some marks there some values where there may be higher weightage. So for that case we have to go for weighted average. Some time you see this we will list two average numbers but we want to assign more importance or weight to some of the numbers. The average you need is the weighted average  
+Sometimes if you look at the previous values, the each value is given equal weightage. Suppose it is not always the case there may be some marks there some values where there may be higher weightage. So for that case we have to go for weighted average. Some time you see this we will list two average numbers but we want to assign more importance or weight to some of the numbers. The average you need is the weighted average  

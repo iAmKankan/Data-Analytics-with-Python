@@ -133,7 +133,7 @@ $$\Large{\color{Purple} \begin{matrix*}[l]
 * Unaffected by <ins><b>extremely large and extremely small values</ins></b>.
 
 
-$\large{\color{Purple}Ordinal data:}$  Ordinal data is a **categorical**, **statistical** data type where the variables have **natural**, **ordered categories** and the **distances between the categories are not known**.
+$\large{\color{Purple}\textrm{Ordinal data}:}$  Ordinal data is a **categorical**, **statistical** data type where the variables have **natural**, **ordered categories** and the **distances between the categories are not known**.
 #### Example: 
 An example of a Likert scale is
 <div align="center">

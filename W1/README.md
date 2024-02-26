@@ -111,6 +111,17 @@ What the formula says $\large{\color{Purple}\mu = \dfrac{\sum f M}{\sum f}}$ it 
 
 * Sometimes we wish to average numbers, but we assign more importance or weight to some of the numbers.
 * The average you need is weighted average.
-* Formula is $\large{\color{Purple}\textit{Weighted Average} = \dfrac{\sum wx}{\sum w}}$
+* Formula is $\large{\color{Purple}\textit{Weighted Average} = \dfrac{\sum wx}{\sum w}}$; where **x** is a data value and **w** is the weight assigned to that data value. The sum is taken over all data values.
 
 Sometimes if you look at the previous values, the each value is given equal weightage. Suppose it is not always the case there may be some marks there some values where there may be higher weightage. So for that case we have to go for weighted average. Some time you see this we will list two average numbers but we want to assign more importance or weight to some of the numbers. The average you need is the weighted average  
+
+### Example
+* Suppose your **midterm test** score is **83**, which is **40% weights** of total score for the final exam. 
+* Your **final exam** score is **95**, which is **60% weights** of total score for the final exam
+* If the **minimum average** for an **A** is **90**, will you earn an **A grade**?
+
+$$\Large{\color{Purple} \begin{matrix*}[l]
+\textrm{Weighted Average} &=& \dfrac{(83 \times 0.40)+(95 \times 0.60)}{0.40 + 0.60}\\
+ &=& \dfrac{32+57}{1}\\
+ &=& 90.2 = \textrm{Grade \' A\'}\\
+\end{matrix*}}$$

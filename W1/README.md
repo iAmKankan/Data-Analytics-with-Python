@@ -75,7 +75,7 @@ $$\Large{\color{Purple} \begin{matrix*}[l]
  &=& \dfrac{f_1 M_1+f_2 M_2+f_3M_3+\cdots+f_iM_i}{f_1 +f_2+f_3+\cdots+f_i}\\
 \end{matrix*}}$$
 
-The mean of your grouped data is nothing but weighted average of class midpoints, class frequencies are the weight. For the formula is $\large{\color{Purple}\mu &=& \dfrac{\sum f M}{\sum f}}$
+The mean of your grouped data is nothing but weighted average of class midpoints, class frequencies are the weight. For the formula is $\large{\color{Purple}\mu = \dfrac{\sum f M}{\sum f}}$
 
 <p align="center">
  <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/de1520a3-cdc0-4a06-a531-cb5c96986f97" width=50%/>

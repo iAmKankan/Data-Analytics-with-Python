@@ -152,3 +152,12 @@ $\large{\color{Purple}\textrm{Interval scale}:}$ The interval type allows for de
 $\large{\color{Purple}\textrm{Ratio scale}:}$ The ratio type takes its name from the fact that measurement is the estimation of the ratio between a magnitude of a continuous quantity and a unit of measurement of the same kind (Michell, 1997, 1999). Most measurement in the physical sciences and engineering is done on ratio scales. Examples include mass, length, duration, plane angle, energy and electric charge. In contrast to interval scales, ratios can be compared using division. Very informally, many ratio scales can be described as specifying "how much" of something (i.e. an amount or magnitude). Ratio scale is often used to express an order of magnitude such as for temperature in Orders of magnitude (temperature).
 
 $\large{\color{Purple}\textrm{Nominal Data}:}$ In statistics, Nominal data is qualitative data that groups variables into categories that do not overlap. Nominal data is the simplest measure level and are considered the foundation of statistical analysis and all other mathematical sciences. They are individual pieces of information recorded and used for analysis. Nominal data cannot be ordered and cannot be measured. **Example of Nominal Data** – Which state do you live in? (Followed by a **drop-down list** of names of states)
+
+### $\large{\color{Purple}\underline{\textrm{Median Computational Procedure:}}}$
+#### <ins><b>First Procedure</ins></b>
+* Arrange the observations in an ordered array
+* If there is an odd number of terms, the median is the middle term of the ordered array
+* If there is an even number of terms, the median is the average of the middle two terms
+
+#### <ins><b>Second Procedure</ins></b>
+* The median's position in an ordered array is given by (n + 1) / 2

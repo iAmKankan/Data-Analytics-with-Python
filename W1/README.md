@@ -129,5 +129,5 @@ $$\Large{\color{Purple} \begin{matrix*}[l]
 ### $\large{\color{Purple}3. \underline{\textrm{Median}}}$
 * <ins><b>Middle value</ins></b> in an <ins><b>ordered array of numbers</ins></b>
 * Applicable for <ins><b>ordinal</ins></b>, <ins><b>interval</ins></b>, and <ins><b>ratio data</ins></b>
-* <ins><b>Not applicable for nominal data</ins></b>
-* <ins><b>Unaffected by extremely large and extremely small values</ins></b>.
+* Not applicable for <ins><b>nominal data</ins></b>
+* Unaffected by <ins><b>extremely large and extremely small values</ins></b>.

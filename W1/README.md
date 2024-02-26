@@ -68,6 +68,8 @@ $$\Large{\color{Purple} \begin{matrix*}[l]
 ### $\large{\color{Purple}\underline{\textrm{Mean of Grouped data:}}}$
 * Weighted average of class midpoints
 * Class frequencies are the weight
+* Formula is $\large{\color{Purple}\mu = \dfrac{\sum f M}{\sum f}}$
+
 
 $$\Large{\color{Purple} \begin{matrix*}[l]
 \mu &=& \dfrac{\sum f M}{\sum f}\\
@@ -75,8 +77,7 @@ $$\Large{\color{Purple} \begin{matrix*}[l]
  &=& \dfrac{f_1 M_1+f_2 M_2+f_3M_3+\cdots+f_iM_i}{f_1 +f_2+f_3+\cdots+f_i}\\
 \end{matrix*}}$$
 
-The mean of your grouped data is nothing but weighted average of class midpoints, class frequencies are the weight. For the formula is $\large{\color{Purple}\mu = \dfrac{\sum f M}{\sum f}}$
-
+The mean of your grouped data is nothing but weighted average of class midpoints, class frequencies are the weight. 
 ### Example of Group Data Calculation:
 
 <p align="center">
@@ -110,5 +111,6 @@ What the formula says $\large{\color{Purple}\mu = \dfrac{\sum f M}{\sum f}}$ it 
 
 * Sometimes we wish to average numbers, but we assign more importance or weight to some of the numbers.
 * The average you need is weighted average.
+* Formula is $\large{\color{Purple}\textit{Weighted Average} = \dfrac{\sum wx}{\sum w}}$
 
 Sometimes if you look at the previous values, the each value is given equal weightage. Suppose it is not always the case there may be some marks there some values where there may be higher weightage. So for that case we have to go for weighted average. Some time you see this we will list two average numbers but we want to assign more importance or weight to some of the numbers. The average you need is the weighted average  

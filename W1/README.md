@@ -131,3 +131,17 @@ $$\Large{\color{Purple} \begin{matrix*}[l]
 * Applicable for <ins><b>ordinal</ins></b>, <ins><b>interval</ins></b>, and <ins><b>ratio data</ins></b>
 * Not applicable for <ins><b>nominal data</ins></b>
 * Unaffected by <ins><b>extremely large and extremely small values</ins></b>.
+
+
+$\large{\color{Purple}Ordinal data:}$  Ordinal data is a **categorical**, **statistical** data type where the variables have **natural**, **ordered categories** and the **distances between the categories are not known**.
+#### Example: 
+An example of a Likert scale is
+<div align="center">
+  
+|Like|	Like Somewhat|	Neutral	Dislike| Somewhat|	Dislike|
+|:---:|:---:|:---:|:---:|:---:|
+|1	|2	|3	|4	|5|
+</div>
+
+* For example, the survey question "Is your general health **poor**, **reasonable**, **good**, or **excellent**?" may have those answers coded respectively as **1**, **2**, **3** and **4**. * Sometimes data on an **interval scale** or **ratio scale** are grouped onto an **ordinal scale**: for example: **individuals** whose **income** is known might be grouped into the **income categories** **$0–$19,999**, **$20,000–$39,999**, **$40,000–$59,999**, ..., which then might be coded as **1**, **2**, **3**, **4**.
+* Other examples of **ordinal data** include **socioeconomic status**, **military ranks** and **letter grades** for **coursework**.

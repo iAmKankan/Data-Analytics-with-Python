@@ -105,3 +105,10 @@ Suppose for this the data is in this grouped format how to find out the **mean**
 Next one you have two **multiplied by frequency and class midpoint** so $\large{\color{Purple}6 \times 25 = 150}$ , $\large{\color{Purple}18 \times 35 = 630}$ , $\large{\color{Purple}11 \times 45 = 495}$ and so on. 
 
 What the formula says $\large{\color{Purple}\mu = \dfrac{\sum f M}{\sum f}}$ it is last column the sum value is 2150, 2150/50 Sigma f is some of the frequency so for this kind of grouped data the mean is 43.
+
+### $\large{\color{Purple}2. \underline{\textrm{Weighted Average}}}$
+
+* Sometimes we wish to average numbers, but we assign more importance or weight to some of the numbers.
+* The average you need is weighted average.
+
+Now we will go to the next central tendency that is the weighted average. Some time if you look at the previous values, the each value is given equal weightage. Suppose it is not always the case there may be some marks there some values where there may be higher weightage. So for that case we have to go for weighted average. Some time you see this we will list two average numbers but we want to assign more importance or weight to some of the numbers. The average you need is the weighted average  

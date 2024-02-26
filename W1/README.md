@@ -118,7 +118,7 @@ Sometimes if you look at the previous values, the each value is given equal weig
 ### Example
 * Suppose your **midterm test** score is **83**, which is **40% weights** of total score for the final exam. 
 * Your **final exam** score is **95**, which is **60% weights** of total score for the final exam
-* If the **minimum average** for an **A** is **90**, will you earn an **A grade**?
+* If the **minimum average** for an **A** is $\large \geq$ **90**, will you earn an **A grade**?
 
 $$\Large{\color{Purple} \begin{matrix*}[l]
 \textrm{Weighted Average} &=& \dfrac{(83 \times 0.40)+(95 \times 0.60)}{0.40 + 0.60}\\

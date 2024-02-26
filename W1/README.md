@@ -82,3 +82,5 @@ The mean of your grouped data is nothing but weighted average of class midpoints
 <p align="center">
  <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/de1520a3-cdc0-4a06-a531-cb5c96986f97" width=70%/>
 </p>
+
+$$\Large{\color{Purple}\mu = \dfrac{\sum f M}{\sum f} = \dfrac{2150}{50}=43.0 }$$

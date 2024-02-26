@@ -85,4 +85,23 @@ The mean of your grouped data is nothing but weighted average of class midpoints
 
 $$\Large{\color{Purple}\mu = \dfrac{\sum f M}{\sum f} = \dfrac{2150}{50}=43.0 }$$
 
-See this is the grouped data. What is given class interval is given frequency is given class midpoint is given and multiplied value of frequency and midpoint also we can find out. For example; see here 20 to 30 there are 6 numbers is their frequency 6. Suppose if you say the marks of here if you say this this is an example of here marks obtained by in your class. So between 20 and 30 there are 6 students is there. Between 30 under 40 there are 18 students is there. Suppose for this the data is in this format that is in grouped format how to find out the mean? Okay? First what do you have to do first you have to find out the class midpoint. See 20 to 30 that is a class interval the midpoint is 25, for 30 and 40. The class midpoint is the middle value 35 like this 45, 55, 65, and 75. Next one you have two multiplied by frequency and class midpoint so 6 into 25 is 150, 18 into 35 is 630, 11 into 45 is 495 and so on. What the formula says it is last column the sum value is 2150, 2150/50 Sigma f is some of the frequency so for this kind of grouped data the mean is 43.
+See this is the grouped data. What is given class interval is given frequency is given class midpoint is given and multiplied value of frequency and midpoint also we can find out. 
+For example, Suppose we are talking about the markes obtained by a class of students for a perticular subject.
+* <ins><b>20 to under 30 :</ins></b> The frequency is 6, means 6 students get the score between 20 to less than 30.
+* <ins><b>30 to under 40 :</ins></b> The frequency is 18, means 18 students get the score between 30 to less than 40.
+* <ins><b>40 to under 50 :</ins></b> The frequency is 11, means 11 students get the score between 40 to less than 50.
+* <ins><b>50 to under 60 :</ins></b> The frequency is 11, means 11 students get the score between 50 to less than 60.
+* <ins><b>60 to under 70 :</ins></b> The frequency is 3, means 3 students get the score between 60 to less than 70.
+* <ins><b>70 to under 80 :</ins></b> The frequency is 1, means 1 students get the score between 70 to less than 80.
+
+Suppose for this the data is in this grouped format how to find out the **mean**?  First what do you have to do first you have to find out the class midpoint.
+* <ins><b>20 to under 30 :</ins></b> that is a class interval, the midpoint is **25**
+* <ins><b>30 to under 40 :</ins></b> that is a class interval, the midpoint is **35**
+* <ins><b>40 to under 50 :</ins></b> that is a class interval, the midpoint is **45**
+* <ins><b>50 to under 60 :</ins></b> that is a class interval, the midpoint is **55**
+* <ins><b>60 to under 70 :</ins></b> that is a class interval, the midpoint is **65**
+* <ins><b>70 to under 80 :</ins></b> that is a class interval, the midpoint is **75**
+  
+Next one you have two **multiplied by frequency and class midpoint** so $\large{\color{Purple}6 \times 25 = 150}$ , $\large{\color{Purple}18 \times 35 = 630}$ , $\large{\color{Purple}11 \times 45 = 495}$ and so on. 
+
+What the formula says $\large{\color{Purple}\mu = \dfrac{\sum f M}{\sum f}}$ it is last column the sum value is 2150, 2150/50 Sigma f is some of the frequency so for this kind of grouped data the mean is 43.

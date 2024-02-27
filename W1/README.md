@@ -223,3 +223,15 @@ Median &=& L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)\\
 * Applicable to all levels of data measurement (**nominal**, **ordinal**, **interval** and **ratio**).
 * **Bimodal** -- Data sets that have **two modes**.
 * **Multimodal** -- Data sets that contain **more than two modes**.
+
+
+### $\large{\color{Purple}\underline{\textrm{Example: Mode}}}$
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+|35   |41  | 44 |45|
+| 37|41|44|46|
+|37|43|44|46|
+|39|43|44|46|
+|40|43|44|46|
+|40|43|45|48|

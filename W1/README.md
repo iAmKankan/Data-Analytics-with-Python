@@ -269,4 +269,4 @@ Mode  &=& L_{Mo}+ \dfrac{d_1}{d_1+d_2} w\\
 * Your **width** is **10**,
 * So **36.31** is the mode of your **grouped data**. 
 
-### 🔲 $\large{\color{brown}\underline{\textrm{When to use Mean, Median, Mode?}}}$
+### 🔲 $\large{\color{brown}\underline{\textrm{When to use Mean or Median or Mode?}}}$

@@ -268,3 +268,5 @@ Mode  &=& L_{Mo}+ \dfrac{d_1}{d_1+d_2} w\\
 * $\large{\color{Purple}d_2}$ is the difference between your **18** and **next frequency** **11**  that is $\large{\color{Purple} (18 - 11 )= 7}$.
 * Your **width** is **10**,
 * So **36.31** is the mode of your **grouped data**. 
+
+### 🔲 $\large{\color{brown}\underline{\textrm{When to use Mean, Median, Mode?}}}$

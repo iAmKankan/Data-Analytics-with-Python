@@ -196,3 +196,7 @@ $$\Large{\color{Purple}Median =L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)}$
 * $\large{\color{Purple}N}$ = total of frequencies
 
 ### $\large{\color{Purple}\underline{\textrm{Example: Median of Gouped data:}}}$
+<p align ="center">
+  <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/fba414c6-3db8-4e94-9c46-67a2fa75924a" width=60%/>
+  <br>
+</p>

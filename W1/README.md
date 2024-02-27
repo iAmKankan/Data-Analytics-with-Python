@@ -200,3 +200,9 @@ $$\Large{\color{Purple}Median =L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)}$
   <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/fba414c6-3db8-4e94-9c46-67a2fa75924a" width=60%/>
   <br>
 </p>
+
+$$\Large{\color{Purple}\begin{matrix*}[l]
+Median &=& L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)\\
+ &=& 40+ \dfrac{\dfrac{50}{2} - 24 }{11} (10)\\
+  &=& 40.909
+\end{matrix*}}$$

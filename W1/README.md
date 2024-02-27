@@ -186,7 +186,7 @@ $\large{\color{Purple}\textrm{Ordered Array: } 3,4,5,7,8,9,11, 14, 15, 16, 16, 1
 
 ### $\large{\color{Purple}\underline{\textrm{Median of Gouped data:}}}$
 
-$$\Large{\color{Purple}Median =L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ mcd}} (W)}$$
+$$\Large{\color{Purple}Median =L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)}$$
 
 #### <ins>Where:</ins>
 * $\large{\color{Purple}L}$ = the lower limit of the median class.
@@ -195,3 +195,4 @@ $$\Large{\color{Purple}Median =L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ mcd}} (W)}$
 * $\large{\color{Purple}W}$ = width of the median class
 * $\large{\color{Purple}N}$ = total of frequencies
 
+### $\large{\color{Purple}\underline{\textrm{Example: Median of Gouped data:}}}$

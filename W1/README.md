@@ -194,3 +194,4 @@ $$\Large{\color{Purple}Median =L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ mcd}} (W)}$
 * $\large{\color{Purple}f_{mcd}}$= frequency of the median class
 * $\large{\color{Purple}W}$ = width of the median class
 * $\large{\color{Purple}N}$ = total of frequencies
+

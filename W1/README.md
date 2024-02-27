@@ -161,3 +161,27 @@ $\large{\color{Purple}\textrm{Nominal Data}:}$ In statistics, Nominal data is qu
 
 #### <ins><b>Second Procedure</ins></b>
 * The median's position in an ordered array is given by (n + 1) / 2
+
+### Example: Odd number of terms median
+
+$\large{\color{Purple}\textrm{Ordered Array: } 3, 4, 5, 7, 8, 9, 11, 14, 15, 16, 16, 17, 19, 19, 20, 21, 22}$
+
+* There are **17** terms in the ordered array.
+* Position of **median = (n+1)/2 = (17+1)/2 = 9**
+* The median is the <b>9<sup>th</sup></b> term which is **15**.
+* If the **22** is replaced by **100**, the **median is 15**.
+* If the **3** is replaced by **-103**, the median is **15**.
+
+So there is the advantage of this median over mean is median is not disturbed by extreme values.
+
+### Example: Even number of terms median
+
+$\large{\color{Purple}\textrm{Ordered Array: }3,4,5,7,8,9,11, 14, 15, 16, 16, 17, 19, 19, 20, 21,
+
+* There are **16** terms in the ordered array
+* Position of **median= (n + 1) / 2 = (16 + 1) / 2 = 8.5**
+* The median is between the <b>8<sup>th</sup></b> and <b>9<sup>th</sup></b> terms, **14.5**
+* If the **21** is replaced by **100**, the median is **14.5**
+* If the **3** is replaced by **-88**, the median is **14.5**
+
+  

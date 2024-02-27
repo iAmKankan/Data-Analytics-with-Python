@@ -227,6 +227,9 @@ Median &=& L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)\\
 
 ### $\large{\color{Purple}\underline{\textrm{Example: Mode}}}$
 
+<div align="center">
+ <b> 
+   
 | | | | |
 |:---:|:---:|:---:|:---:|
 |35   |41  | 44 |45|
@@ -235,3 +238,7 @@ Median &=& L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)\\
 |39|43|44|46|
 |40|43|44|46|
 |40|43|45|48|
+| | | | |
+
+ </b>
+</div>

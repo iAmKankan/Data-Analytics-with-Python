@@ -242,3 +242,15 @@ Median &=& L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)\\
 
  </b>
 </div>
+
+* The Mode is 44.
+* There are more 44s than any number.
+
+### $\large{\color{Purple}\underline{\textrm{Example: Mode of Grouped Data}}}$
+* Midpoint of the model class.
+* Model class has the greatest frequency.
+
+<p align ="center">
+  <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/c67dc156-327a-4f5d-863e-69d8d5091d2f" width=60%/>
+  <br>
+</p>

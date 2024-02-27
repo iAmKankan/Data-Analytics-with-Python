@@ -255,3 +255,16 @@ Median &=& L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)\\
   <br>
 </p>
 
+$$\Large{\color{Purple}\begin{matrix*}[l]
+Mode  &=& L_{Mo}+ \dfrac{d_1}{d_1+d_2} w\\
+ &=& 30+ \dfrac{12}{12+7}10\\
+  &=& 36.31
+\end{matrix*}}$$
+
+* Here first we have to find out the **mode class**. For that look at the frequency column there **18** is the **highest frequency**.
+* So corresponding the **n** class interval is called **mode interval**.
+* The mode interval $\large{\color{Purple}L_{Mo}}$ is the lower limit of that mode interval is = 30 + (12/(12+7))*10
+* $\large{\color{Purple}d_1}$ is **present frequency** is **18** and the **previous frequency** is **6**, $\large{\color{Purple} (18 - 6 )= 12}$
+* $\large{\color{Purple}d_2}$ is the difference between your **18** and **next frequency** **11**  that is $\large{\color{Purple} (18 - 11 )= 7}$.
+* Your **width** is **10**,
+* So **36.31** is the mode of your **grouped data**. 

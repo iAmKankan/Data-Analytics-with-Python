@@ -188,7 +188,7 @@ $\large{\color{Purple}\textrm{Ordered Array: } 3,4,5,7,8,9,11, 14, 15, 16, 16, 1
 
 $$\Large{\color{Purple}Median =L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ mcd}} (W)}$$
 
-#### Where:
+#### <ins>Where:</ins>
 * $\large{\color{Purple}L}$ = the lower limit of the median class.
 * $\large{\color{Purple}cf_{p}}$ = cumulative frequency of class preceding the median class
 * $\large{\color{Purple}f_{mcd}}$= frequency of the median class

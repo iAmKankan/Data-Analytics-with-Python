@@ -190,7 +190,7 @@ $$\Large{\color{Purple}Median =L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)}$
 
 #### <ins>Where:</ins>
 * $\large{\color{Purple}L}$ = the lower limit of the median class.
-* $\large{\color{Purple}cf_{p}}$ = cumulative frequency of class preceding the median class
+* $\large{\color{Purple}cf_{p}}$ = cumulative frequency of class preceding the median class.( previous class frequency)
 * $\large{\color{Purple}f_{med}}$= frequency of the median class ($\large{\color{Purple}f \ \ median \ \ = f_{med}}$)
 * $\large{\color{Purple}W}$ = width of the median class
 * $\large{\color{Purple}N}$ = total of frequencies
@@ -206,3 +206,20 @@ Median &=& L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)\\
  &=& 40+ \dfrac{\dfrac{50}{2} - 24 }{11} (10)\\
   &=& 40.909
 \end{matrix*}}$$
+
+* Before using this formula first you need to find out the **median class**.
+* What is the median class is when you add the frequency **6 + 18 + 11 + 11 + 3 + 1 = 50**.
+* So divide this **50 / 2** it is **25**.
+* Now, in the **community frequency column** or in the **last column** look at where that **25** is lying? (it is not between 30 - 40) it is going to lie on between **40 to 50** because **24** for the next term is **35**.
+* So the **median class** for **this given group data** is **40 and 50**.
+* So as usual **L**, is the **lower limit of the median class** that is a **40** plus **N** is **50** .
+* You see the **cumulative frequency of the preceding interval** is **24**.( previous class frequency)
+*  So, **Md = 40+ ((50/2) – 24) x10 /11** because the **width interval** is **10**.
+*  When you simplify you would get **40.909**.
+
+
+### $\large{\color{Purple}3. \underline{\textrm{Mode:}}}$
+* The most frequently occurring value in a data set
+* Applicable to all levels of data measurement (**nominal**, **ordinal**, **interval** and **ratio**).
+* **Bimodal** -- Data sets that have **two modes**.
+* **Multimodal** -- Data sets that contain **more than two modes**.

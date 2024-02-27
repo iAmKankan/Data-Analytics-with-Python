@@ -176,7 +176,7 @@ So there is the advantage of this median over mean is median is not disturbed by
 
 ### Example: Even number of terms median
 
-$\large{\color{Purple}\textrm{Ordered Array: }3,4,5,7,8,9,11, 14, 15, 16, 16, 17, 19, 19, 20, 21,
+$\large{\color{Purple}\textrm{Ordered Array: }}$ 3,4,5,7,8,9,11, 14, 15, 16, 16, 17, 19, 19, 20, 21,
 
 * There are **16** terms in the ordered array
 * Position of **median= (n + 1) / 2 = (16 + 1) / 2 = 8.5**

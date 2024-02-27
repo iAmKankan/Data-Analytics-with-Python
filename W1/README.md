@@ -218,7 +218,7 @@ Median &=& L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)\\
 *  When you simplify you would get **40.909**.
 
 
-### $\large{\color{Purple}3. \underline{\textrm{Mode:}}}$
+### $\large{\color{Purple}4. \underline{\textrm{Mode:}}}$
 * The most frequently occurring value in a data set
 * Applicable to all levels of data measurement (**nominal**, **ordinal**, **interval** and **ratio**).
 * **Bimodal** -- Data sets that have **two modes**.

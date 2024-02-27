@@ -271,6 +271,13 @@ Mode  &=& L_{Mo}+ \dfrac{d_1}{d_1+d_2} w\\
 
 ### 🔲 $\large{\color{brown}\underline{\textrm{When to use Mean or Median or Mode?}}}$
 
+#### Example
+Suppose the result of an exam Left-skewed distribution is for a overall good score, Right-skewed distribution is for a overall not good score, and the normal distribution for average score
+
 <p align="center">
  <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/054051ed-646f-4266-92fe-e2f39b1afaa4" width=80%/>
 </p>
+
+Now after looking at this hypothetical problem now the question arises when to use **mean**, when to use **median**, **mode**. Well just look at the **location of the median**. The **median** is always in the **middle**. Whether the data is **left skewed** or **right skewed** the **median** is always the **middle**. 
+
+So whenever the data is **skewed** you should go for **median as a central tendency**. If your data is following a **bell-shaped curve** then you can use **mean**, **median**, **mode**.

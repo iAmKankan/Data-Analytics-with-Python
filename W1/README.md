@@ -251,6 +251,7 @@ Median &=& L+ \dfrac{\dfrac{N}{2} - cf_{p} }{f_{ med}} (W)\\
 * Model class has the greatest frequency.
 
 <p align ="center">
-  <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/c67dc156-327a-4f5d-863e-69d8d5091d2f" width=40%/>
+  <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/c67dc156-327a-4f5d-863e-69d8d5091d2f" width=45%/>
   <br>
 </p>
+

@@ -272,5 +272,5 @@ Mode  &=& L_{Mo}+ \dfrac{d_1}{d_1+d_2} w\\
 ### 🔲 $\large{\color{brown}\underline{\textrm{When to use Mean or Median or Mode?}}}$
 
 <p align="center">
- <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/95e46e09-b3fb-4379-819e-cc264cfb4c94" width="80%/>
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/95e46e09-b3fb-4379-819e-cc264cfb4c94" width=80%/>
 </p>

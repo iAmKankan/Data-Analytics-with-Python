@@ -97,4 +97,4 @@ We have arranged the data in the **ascending order**. First we got to find out t
 * Range of the "**middle half**"
 * Less influenced by **extremes**
 
-  $$\large{\color{Purple}\textrrm{Inter-Quartile range} = Q_3 - Q_1}$$
+  $$\Large{\color{Purple}\textit{Inter-Quartile range} = Q_3 - Q_1}$$

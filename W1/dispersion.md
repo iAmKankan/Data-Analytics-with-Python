@@ -148,4 +148,4 @@ $$\Large{\color{Purple}\begin{matrix*}[c]
 M.A.D &=& \dfrac{\sum X - \mu}{N}\\
  &=& \dfrac{24}{5}\\
   &=& 4.8\\
-}$$
+\end{matrix*}}$$

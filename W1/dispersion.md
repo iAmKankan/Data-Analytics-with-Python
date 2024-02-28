@@ -201,3 +201,6 @@ $$\Large{\color{Purple}\begin{matrix*}[c]
 \sigma   &=& \sqrt{\sigma^2} \ \ or\ \ \sqrt{26.0} \\
 \sigma   &=& 5.1\\
 \end{matrix*}}$$
+
+#### Why ?
+<ins><b>Variance</ins></b> is a squared number that we cannot compare. Suppose the two numbers are given say 12 and 13 that is easy intuitively we can say which is higher which is smaller. Suppose 124, 169 is given notice squared number. We cannot compare intuitively and not only that it is in the square root of squared term. We want to have it in the actual term so for comparison purpose for that purpose we are taking square root of that.

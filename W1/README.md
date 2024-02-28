@@ -304,7 +304,7 @@ If it is skewed data you go for **median as the center tendency**. If it is foll
   
 ### $\large{\color{Purple}\underline{\textrm{Example: Percentile}}}$
 * $\large{\color{Purple}\textrm{Raw Data: 14, 12, 19, 23, 5, 13, 28, 17}}$, let's make it ordered-
-*  $\large{\color{Purple}\textrm{Ordered Array: \[5, 12, 13, 14, 17, 19, 23, 28\]}}$
+*  $\large{\color{Purple}\textrm{Ordered Array:} \boldsymbol{[} 5, 12, 13, 14, 17, 19, 23, 28 \boldsymbol{]} }$
 * Location of <b>30<sup>th</sup></b> **percentile**:  $\large{\color{Purple}i = \dfrac{30}{100} \times (8) = 2.4}$
 * The **location index - i** is not a **whole number**;  $\large{\color{Purple}(i + 1) = (2.4 + 1) = 3.4}$ the **whole number portion** is **3**; the <b>30<sup>th</sup></b> **percentile** is at the <b>3<sup>rd</sup></b> location of the **array**; the <b>30<sup>th</sup></b> **percentile = 13**.
 

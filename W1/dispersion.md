@@ -31,8 +31,36 @@ It is used to compare **dispersion** of various samples that is why whenever you
 6. Z scores
 7. Coefficient of Variation
 
-## $\large{\color{Purple}1. \underline{\textrm{Range: Ungrouped Data}}}$  
-* The difference between the largest and the smallest values in a set of data.
+## $\large{\color{Purple}1.\ \underline{\textrm{Range: Ungrouped Data}}}$  
+* The **difference** between the **largest** and the **smallest values** in a set of data.
 * Simple to compute
 * Ignores all data points except the two extremes
 * Example:  $\large{\color{Purple}Range = (Largest - Smallest) = (48 - 35) = 13}$
+
+<div align="center">
+ <b> 
+   
+| | | | |
+|:---:|:---:|:---:|:---:|
+|35   |41  | 44 |45|
+| 37|41|44|46|
+|37|43|44|46|
+|39|43|44|46|
+|40|43|44|46|
+|40|43|45|48|
+| | | | |
+
+ </b>
+</div>
+
+Suppose there is ungroup of data is there see this one you have to find out the range. The range is nothing but the difference between the largest and the smallest value in a set of data. It is very simple to compute. The problem here is it ignores all data points except the two extremes. So the range is the largest value is 48 in this data set the smallest value is 35. 48- 35 = 13 you see that only the two values are taken care in between the values is not taken into consideration for finding the range.
+
+## $\large{\color{Purple}2.\ \underline{\textrm{Quartile:}}}$  
+* <ins><b>Measures of central tendency</ins></b> that **divide a group of data** into <ins><b>four subgroups</ins></b>.
+* <ins><b>Q<sub>1</sub>: 25%</ins></b> of the data set is **below the first quartile**.
+* <ins><b>Q<sub>2</sub>: 50%</ins></b> of the data set is **below the second quartile**.
+* <ins><b>Q<sub>3</sub>: 75%</ins></b> of the data set is **below the third quartile**.
+* <ins><b>Q<sub>1</sub></ins></b> is to the <ins><b>25<sup>th</sup> percentile</ins></b>.
+* <ins><b>Q</ins>2</b> is located at <ins><b>50<sup>th</sup> percentile</ins></b> and <ins><b>equals to the median</ins></b>.
+* <ins><b>Q</ins>3</b> is equal to the <ins><b>75<sup>th</sup> percentile</ins></b>
+* <ins><b>Quartile values</ins></b> are not necessarily members of the dataset.

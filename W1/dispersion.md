@@ -31,7 +31,7 @@ It is used to compare **dispersion** of various samples that is why whenever you
 6. Z scores
 7. Coefficient of Variation
 
-## $\large{\color{Purple}1.\ \underline{\textrm{Range: Ungrouped Data}}}$  
+### $\large{\color{Purple}1.\ \underline{\textrm{Range: Ungrouped Data}}}$  
 * The **difference** between the **largest** and the **smallest values** in a set of data.
 * Simple to compute
 * Ignores all data points except the two extremes

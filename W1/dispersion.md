@@ -57,10 +57,10 @@ Suppose there is ungroup of data is there see this one you have to find out the 
 
 ## $\large{\color{Purple}2.\ \underline{\textrm{Quartile:}}}$  
 * <ins><b>Measures of central tendency</ins></b> that **divide a group of data** into <ins><b>four subgroups</ins></b>.
-* <ins><b>Q<sub>1</sub>: 25%</ins></b> of the data set is **below the first quartile**.
-* <ins><b>Q<sub>2</sub>: 50%</ins></b> of the data set is **below the second quartile**.
-* <ins><b>Q<sub>3</sub>: 75%</ins></b> of the data set is **below the third quartile**.
-* <ins><b>Q<sub>1</sub></ins></b> is to the <ins><b>25<sup>th</sup> percentile</ins></b>.
-* <ins><b>Q</ins>2</b> is located at <ins><b>50<sup>th</sup> percentile</ins></b> and <ins><b>equals to the median</ins></b>.
-* <ins><b>Q</ins>3</b> is equal to the <ins><b>75<sup>th</sup> percentile</ins></b>
+* <b>Q<sub>1</sub>: <ins>25%</ins></b> of the data set is **below the first quartile**.
+* <b>Q<sub>2</sub>: <ins>50%</ins></b> of the data set is **below the second quartile**.
+* <b>Q<sub>3</sub>: <ins>75%</ins></b> of the data set is **below the third quartile**.
+* <b>Q<sub>1</sub></b> is to the <ins><b>25<sup>th</sup> percentile</ins></b>.
+* <b>Q<sub>2</sub></b> is located at <ins><b>50<sup>th</sup> percentile</ins></b> and <ins><b>equals to the median</ins></b>.
+* <b>Q<sub>3</sub></b> is equal to the <ins><b>75<sup>th</sup> percentile</ins></b>
 * <ins><b>Quartile values</ins></b> are not necessarily members of the dataset.

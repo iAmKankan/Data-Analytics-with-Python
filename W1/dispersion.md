@@ -72,3 +72,9 @@ Suppose there is ungroup of data is there see this one you have to find out the 
   <ins><b><i> Quartiles and its positions </i></b></ins> 
 </p>
 
+#### Example:
+ $\large{\color{Purple}\textrm{Ordered array: } 106, 109, 114, 116, 121, 122, 125, 129 }$
+ 
+ * $\large{\color{Purple}Q_1: \hspace{55pt} i^{th} = \dfrac{25}{100} \times (8) = 2 \hspace{25pt}  Q_{1} = \dfrac{109 + 114}{2} = 111.5}$
+ * $\large{\color{Purple}Q_1: \hspace{55pt} i^{th} = \dfrac{50}{100} \times (8) = 4 \hspace{25pt}  Q_{2} = \dfrac{116 + 121}{2} = 118.5}$
+ * $\large{\color{Purple}Q_1: \hspace{55pt} i^{th} = \dfrac{75}{100} \times (8) = 6 \hspace{25pt}  Q_{3} = \dfrac{122 + 125}{2} = 123.5}$

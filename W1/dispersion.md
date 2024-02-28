@@ -112,7 +112,7 @@ $$\Large{\color{Purple}\textit{Inter-Quartile range} = Q_3 - Q_1}$$
 <b><ins>First</ins></b>: findout the mean from the dataset. which is **13**.
 
 <p align="center">
- <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/c22acb95-acd3-497a-8d23-9189f61a74da" width=60%/>
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/c22acb95-acd3-497a-8d23-9189f61a74da" width=50%/>
   <br>
   <ins><b><i> </i></b></ins> 
 </p>

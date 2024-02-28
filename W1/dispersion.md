@@ -153,6 +153,25 @@ M.A.D &=& \dfrac{\sum \mid X - \mu \mid}{N}\\
 ### $\large{\color{Purple}4\ \underline{\textrm{Population Variance:}}}$  
 There was a problem in the **mean absolute deviation**.
 
+<div align="center">
+ 
+|$\large{\color{Purple}X}$| $\large{\color{Purple}X - \mu}$ | $\large{\color{Purple}(X - \mu )^2 }$|
+|:----:|:----:|:---:|
+|5|-8|+8|
+|9|-4|+4|
+|16|+3|+3|
+|17|+4|+4|
+|18|+5|+5|
+| | $\large{\color{Blue}0}$| $\large{\color{Blue}130}$|
+
+</div>
+
+$$\Large{\color{Purple}\begin{matrix*}[c]
+\sigma^2 &=& \dfrac{\sum ( X - \mu )^2}{N}\\
+ &=& \dfrac{130}{5}\\
+  &=& 26.0\\
+\end{matrix*}}$$
+
 <ins><b>Population Variance:</ins></b> It is the average of the **squared deviation** from the **arithmetic mean**. 
 * We have used the **Mean Absolute Deviation** to avoid the result becoming zero **0** by the presents of negetive values in the diviations list.
 * Now we are going to square it, the squaring of the deviation having some advantage.

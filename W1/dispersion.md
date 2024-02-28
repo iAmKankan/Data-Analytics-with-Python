@@ -80,7 +80,7 @@ Suppose there is ungroup of data is there see this one you have to find out the 
  * $\large{\color{Purple}Q_1: \hspace{55pt} i^{th} = \dfrac{75}{100} \times (8) = 6 \hspace{25pt}  Q_{3} = \dfrac{122 + 125}{2} = 123.5}$
 
 We have arranged the data in the **ascending order**. First we got to find out the <b>Q<sub> 1</sub></b>
-* <b>Q<sub> 1</sub></b> as we know it is the <b>25<sup>th</sum> percentile</b> , So, lets findout the location of the <b>25<sup>th</sum> percentile</b>.
+* <b>Q<sub> 1</sub></b> as we know it is the <b>25<sup>th</sup> percentile</b> , So, lets findout the location of the <b>25<sup>th</sup> percentile</b>.
    * First you have to find out the location index **i** for that $\large{\color{Purple}i = \dfrac{25}{100} \times (8) = 2}$ . Since the 2 is the even number, we have to find out <ins><b>that position plus the next position and its average</ins></b>. <b>2<sup>nd</sup></b> = **109**, <b>3<sup>rd</sup></b> = **114**
    * So, $\large{\color{Purple}Q_{1} = \dfrac{109 + 114}{2} = 111.5}$
 
@@ -99,7 +99,7 @@ We have arranged the data in the **ascending order**. First we got to find out t
 
   $$\Large{\color{Purple}\textit{Inter-Quartile range} = Q_3 - Q_1}$$
 
-* As we know  <b>Q<sub> 3</sub></b> is 75th percentile  <b>Q<sub>1</sub></b> is the 25th percentile so range of values between the **first and third quartile** is called <ins><b>interquartile range</ins></b>.
+* As we know  <b>Q<sub> 3</sub></b> is <b>75<sup>th</sup> percentile</b>  <b>Q<sub>1</sub></b> is the <b>25<sup>th</sup> percentile</b> so range of values between the **first and third quartile** is called <ins><b>interquartile range</ins></b>.
 * It is a range of middle of the data set.
 * Why we are using quartile range because it is the less influenced by the **extreme values**.
 * Because when we collect the data set we are not going to consider at very low values at the same time very high values. So the middle values which is not affected by extremes that is taken for further calculation .For that purpose we are using **interquartile range**.

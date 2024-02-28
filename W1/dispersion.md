@@ -69,6 +69,6 @@ Suppose there is ungroup of data is there see this one you have to find out the 
 <p align="center">
  <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/45807d12-85ee-4794-ab16-be04ab0dc220" width=40%/>
   <br>
-  <ins><b><i>  </i></b></ins> 
+  <ins><b><i> Quartiles and its positions </i></b></ins> 
 </p>
 

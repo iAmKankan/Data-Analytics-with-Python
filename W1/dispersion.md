@@ -178,4 +178,23 @@ $$\Large{\color{Purple}\begin{matrix*}[c]
   * **One advantage** is we can remove the **negative sign**,
   * **second one** is the deviation is less when you square it. **For example:** **- 4** square is **16**, **- 8** square is **64**. So, more deviation gives more squared value. (<ins><b>It is giving higher penalty for higher deviation values</ins></b>)
 
-### $\large{\color{Purple}4.1.\ \underline{\textrm{Variance:}}}$  
+### $\large{\color{Purple}5.\ \underline{\textrm{Population Standerd Deviation:}}}$  
+* Square root of the Variance.
+
+|:----:|:----:|:---:|
+|5|-8|+8|
+|9|-4|+4|
+|16|+3|+3|
+|17|+4|+4|
+|18|+5|+5|
+| | $\large{\color{Blue}0}$| $\large{\color{Blue}130}$|
+
+</div>
+
+$$\Large{\color{Purple}\begin{matrix*}[c]
+\sigma^2 &=& \dfrac{\sum ( X - \mu )^2}{N}\\
+ &=& \dfrac{130}{5}\\
+\sigma^2  &=& 26.0\\
+\sigma   &=& \sqrt{\sigma^2} \ \ or\ \ \sqrt{26.0} \\
+\sigma   &=& 5.1\\
+\end{matrix*}}$$

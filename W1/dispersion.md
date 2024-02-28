@@ -127,3 +127,18 @@ $$\Large{\color{Purple}\textit{Inter-Quartile range} = Q_3 - Q_1}$$
 <b><ins>Finally</ins></b>: We got $\large{\color{Purple}\[ -8,-4,3,4,5 \]}$
 
 Suppose if we want to add the deviation general it will become **0**. That is why we should go for **mean absolute deviation**.
+
+### $\large{\color{Purple}5.\ \underline{\textrm{Mean Absolute Deviation:}}}$  
+
+<div align="center">
+ 
+|$\large{\color{Purple}X}$| $\large{\color{Purple}X - \mu}$ | $\large{\color{Purple} \mid X - \mu \mid }$|
+|:----:|:----:|:---:|
+|5|-8|+8|
+|9|-4|+4|
+|16|+3|+3|
+|17|+4|+4|
+|18|+5|+5|
+| | $\large{\color{Blue}0}$| $\large{\color{Blue}24}$|
+
+</div>

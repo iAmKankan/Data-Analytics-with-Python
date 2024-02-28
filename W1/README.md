@@ -291,7 +291,7 @@ If it is skewed data you go for **median as the center tendency**. If it is foll
 * Measures of **central tendency** that <ins><b>divide a group of data into 100 parts</ins></b>.
    * Example: <b>90<sup>th</sup> percentile</b> indicates that at most **90%** of the data **lie below it**, and at least **10%** of the data **lie above it**.
 * The <ins><b>Median</ins></b> and the <b>50<sup>th</sup> percentile</b> have the **same value**.
-* Applicable for **ordinal**, **interval**, and **ratio****** data .
+* Applicable for **ordinal**, **interval**, and **ratio** data .
 * Not applicable for **nominal data**.
 
 **Percentile is having some advantage over Percentage:**  <ins><b>Percentage is absolute term</ins></b> but the <ins><b>Percentile is the relative term</ins></b>. The <ins><b>measure of central tendency</ins></b> that divide a group of data into **100 parts times the fequency of the data** it is called Percentile.

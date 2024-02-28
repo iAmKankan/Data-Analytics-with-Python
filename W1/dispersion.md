@@ -218,6 +218,12 @@ We want to have it in the actual term so for comparison purpose for that purpose
 |1844|71|5041|
 |1539|-234|54756|
 |1311|-462|213444|
-| 7,092| $\large{\color{Blue}0}$| $\large{\color{Blue}633866}$|
+|$\large{\color{Blue} 7,092}$| $\large{\color{Blue}0}$| $\large{\color{Blue}633866}$|
 
 </div>
+
+$$\Large{\color{Purple}\begin{matrix*}[c]
+S^2 &=& \dfrac{\sum ( X - \bar{X} )^2}{n-1}\\
+ &=& \dfrac{633866}{3}\\
+  &=& 221,288.67\\
+\end{matrix*}}$$

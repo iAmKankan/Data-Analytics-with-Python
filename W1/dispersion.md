@@ -35,4 +35,4 @@ It is used to compare **dispersion** of various samples that is why whenever you
 * The difference between the largest and the smallest values in a set of data.
 * Simple to compute
 * Ignores all data points except the two extremes
-* Example:  $\large{\color{Purple}Range = Largest - Smallest = 48 - 35 = 13}$
+* Example:  $\large{\color{Purple}Range = (Largest - Smallest) = (48 - 35) = 13}$

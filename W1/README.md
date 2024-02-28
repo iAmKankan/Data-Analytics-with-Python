@@ -294,10 +294,10 @@ If it is skewed data you go for **median as the center tendency**. If it is foll
 * Applicable for **ordinal**, **interval**, and **ratio****** data .
 * Not applicable for **nominal data**.
 
-.Percentile is having some advantage over percentage because percentage is absolute term but the percentile is the relative term the measure of central tendency that divide a group of data into 100 parts it is called percentile.
+**Percentile is having some advantage over Percentage:**  <ins><b>Percentage is absolute term</ins></b> but the <ins><b>Percentile is the relative term</ins></b>. The <ins><b>measure of central tendency</ins></b> that divide a group of data into **100 parts times the fequency of the data** it is called Percentile.
 
 ### $\large{\color{Purple}\underline{\textrm{Percentile Computational Precedure}}}$
-* Organize the data into an **ascending ordered array** Calculate the <b>p<sup>th</sup></b> percentile location:  $\large{\color{Purple}i = \frac{P}{100} (n)}$
+* Organize the data into an **ascending ordered array** Calculate the <b>p<sup>th</sup></b> percentile location:  $\large{\color{Purple}i = \frac{P}{100} \times n}$
 * Determine the percentile's location and its value.
 * If **i** is a whole number, the percentile is the average of the values at the **i** and (**i+1**) positions
 * If **i** is not a whole number, the percentile is at the **(i + 1)** position in the ordered array

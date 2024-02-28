@@ -125,3 +125,5 @@ $$\Large{\color{Purple}\textit{Inter-Quartile range} = Q_3 - Q_1}$$
    *  $\large{\color{Purple}(18-13)=5}$    
 
 <b><ins>Finally</ins></b>: We got $\large{\color{Purple}\[ -8,-4,3,4,5 \]}$
+
+Suppose if we want to add the deviation general it will become **0**. That is why we should go for **mean absolute deviation**.

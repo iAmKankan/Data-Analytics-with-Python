@@ -85,5 +85,9 @@ We have arranged the data in the **ascending order**. First we got to find out t
    * So, $\large{\color{Purple}Q_{1} = \dfrac{109 + 114}{2} = 111.5}$
 
  * <b>Q<sub> 2</sub></b> as we know it is the <b>50<sup>th</sum> percentile</b> , So, lets findout the location of the <b>50<sup>th</sum> percentile</b>.
-   * First you have to find out the location index **i** for that $\large{\color{Purple}i = \dfrac{50}{100} \times (8) = 4}$ . Since the 4 is the even number, we have to find out <ins><b>that position plus the next position and its average</ins></b>. <b>2<sup>nd</sup></b> = **109**, <b>3<sup>rd</sup></b> = **114**
-   * So, $\large{\color{Purple}Q_{1} = \dfrac{109 + 114}{2} = 111.5}$
+   * First you have to find out the location index **i** for that $\large{\color{Purple}i = \dfrac{50}{100} \times (8) = 4}$ . Since the 4 is the even number, we have to find out <ins><b>that position plus the next position and its average</ins></b>. <b>4<sup>th</sup></b> = **116**, <b>5<sup>th</sup></b> = **121**
+   * So, $\large{\color{Purple}Q_{2} = \dfrac{116 + 121}{2} = 118.5}$
+
+ * <b>Q<sub> 3</sub></b> as we know it is the <b>75<sup>th</sum> percentile</b> , So, lets findout the location of the <b>75<sup>th</sum> percentile</b>.
+   * First you have to find out the location index **i** for that $\large{\color{Purple}i = \dfrac{75}{100} \times (8) = 6}$ . Since the 6 is the even number, we have to find out <ins><b>that position plus the next position and its average</ins></b>. <b>6<sup>th</sup></b> = **122**, <b>7<sup>th</sup></b> = **125**
+   * So, $\large{\color{Purple}Q_{3} = \dfrac{122 + 125}{2} = 123.5}$

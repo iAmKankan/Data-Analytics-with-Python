@@ -107,3 +107,12 @@ $$\Large{\color{Purple}\textit{Inter-Quartile range} = Q_3 - Q_1}$$
 * $\large{\color{Purple}\textrm{Given dataset: } 5,9,16,17,18 }$
 * Let's findout the Mean $\large{\color{Purple}\mu = \dfrac{\sum X}{N}= \dfrac{65}{5}=13}$
 * $\large{\color{Purple}\textrm{Deviations from the mean: } -8,-4,3,4,5 }$
+
+#### Explanetion:
+<b><ins>First</ins></b>: findout the mean from the dataset. which is **13**.
+
+<p align="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/c22acb95-acd3-497a-8d23-9189f61a74da" width=40%/>
+  <br>
+  <ins><b><i> </i></b></ins> 
+</p>

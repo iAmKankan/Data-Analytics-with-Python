@@ -302,4 +302,12 @@ If it is skewed data you go for **median as the center tendency**. If it is foll
 * If **i** is a whole number, the percentile is the average of the values at the **i** and (**i+1**) positions
 * If **i** is not a whole number, the percentile is at the **(i + 1)** position in the ordered array
 
-  
+  Raw Data: 14, 12, 19, 23, 5, 13, 28, 17
+
+Ordered Array: 5, 12, 13, 14, 17, 19, 23, 28
+
+Location of 30th percentile:
+
+f = 30/100 * (8) = 2.4
+
+The location index, i, is not a whole number; i + 1 = 2.4 + 1 = 3.4 the whole number portion is 3; the 30th percentile is at the 3rd location of the array; the 30th percentile is 13.

@@ -55,7 +55,7 @@ It is used to compare **dispersion** of various samples that is why whenever you
 
 Suppose there is ungroup of data is there see this one you have to find out the range. The range is nothing but the difference between the largest and the smallest value in a set of data. It is very simple to compute. The problem here is it ignores all data points except the two extremes. So the range is the largest value is 48 in this data set the smallest value is 35. 48- 35 = 13 you see that only the two values are taken care in between the values is not taken into consideration for finding the range.
 
-## $\large{\color{Purple}2.\ \underline{\textrm{Quartile:}}}$  
+### $\large{\color{Purple}2.\ \underline{\textrm{Quartile:}}}$  
 * <ins><b>Measures of central tendency</ins></b> that **divide a group of data** into <ins><b>four subgroups</ins></b>.
 * <b>Q<sub>1</sub>: <ins>25%</ins></b> of the data set is **below the first quartile**.
 * <b>Q<sub>2</sub>: <ins>50%</ins></b> of the data set is **below the second quartile**.
@@ -64,3 +64,11 @@ Suppose there is ungroup of data is there see this one you have to find out the 
 * <b>Q<sub>2</sub></b> is located at <ins><b>50<sup>th</sup> percentile</ins></b> and <ins><b>equals to the median</ins></b>.
 * <b>Q<sub>3</sub></b> is equal to the <ins><b>75<sup>th</sup> percentile</ins></b>
 * <ins><b>Quartile values</ins></b> are not necessarily members of the dataset.
+
+
+<p align="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/45807d12-85ee-4794-ab16-be04ab0dc220" width=40%/>
+  <br>
+  <ins><b><i>  </i></b></ins> 
+</p>
+

@@ -78,3 +78,8 @@ Suppose there is ungroup of data is there see this one you have to find out the 
  * $\large{\color{Purple}Q_1: \hspace{55pt} i^{th} = \dfrac{25}{100} \times (8) = 2 \hspace{25pt}  Q_{1} = \dfrac{109 + 114}{2} = 111.5}$
  * $\large{\color{Purple}Q_1: \hspace{55pt} i^{th} = \dfrac{50}{100} \times (8) = 4 \hspace{25pt}  Q_{2} = \dfrac{116 + 121}{2} = 118.5}$
  * $\large{\color{Purple}Q_1: \hspace{55pt} i^{th} = \dfrac{75}{100} \times (8) = 6 \hspace{25pt}  Q_{3} = \dfrac{122 + 125}{2} = 123.5}$
+
+We have arranged the data in the **ascending order**. First we got to find out the Q 1-
+* <b>Q<sub> 1</sub></b> as we know it is the <b>25<sup>th</sum> percentile</b> , So, lets findout the location of the <b>25<sup>th</sum> percentile</b>.
+   * First you have to find out the location index **i** for that $\large{\color{Purple}i = \dfrac{25}{100} \times (8) = 2}$ . Since the 2 is the even number, we have to find out <ins><b>that position plus the next position and its average</ins></b>. <b>2<sup>nd</sup></b> = **109**, <b>3<sup>rd</sup></b> = **114**
+   * So, $\large{\color{Purple}Q_{1} = \dfrac{109 + 114}{2} = 111.5}$

@@ -145,7 +145,7 @@ Suppose if we want to add the deviations in general it will become **0**. That i
 </div>
 
 $$\Large{\color{Purple}\begin{matrix*}[c]
-M.A.D &=& \dfrac{\sum X - \mu}{N}\\
+M.A.D &=& \dfrac{\sum \mid X - \mu \mid}{N}\\
  &=& \dfrac{24}{5}\\
   &=& 4.8\\
 \end{matrix*}}$$

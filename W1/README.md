@@ -307,3 +307,6 @@ If it is skewed data you go for **median as the center tendency**. If it is foll
 * Ordered Array: 5, 12, 13, 14, 17, 19, 23, 28
 * Location of 30<sup>th</sup> percentile: f = 30/100 * (8) = 2.4
 * The location index, i, is not a whole number; i + 1 = 2.4 + 1 = 3.4 the whole number portion is 3; the 30th percentile is at the 3rd location of the array; the 30th percentile is 13.
+
+
+### 🔲 $\large{\color{Purple}\underline{\textrm{Measures of Dispersion:}}}$

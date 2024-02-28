@@ -208,7 +208,7 @@ $$\Large{\color{Purple}\begin{matrix*}[c]
 We want to have it in the actual term so for comparison purpose for that purpose we are taking square root of that.
 
 
-### $\large{\color{Purple}4\ \underline{\textrm{Sample Variance:}}}$  
+### $\large{\color{Purple}6. \ \underline{\textrm{Sample Variance:}}}$  
 
 <div align="center">
  

@@ -98,3 +98,8 @@ We have arranged the data in the **ascending order**. First we got to find out t
 * Less influenced by **extremes**
 
   $$\Large{\color{Purple}\textit{Inter-Quartile range} = Q_3 - Q_1}$$
+
+* As we know  <b>Q<sub> 3</sub></b> is 75th percentile  <b>Q<sub>1</sub></b> is the 25th percentile so range of values between the **first and third quartile** is called <ins><b>interquartile range</ins></b>.
+* It is a range of middle of the data set.
+* Why we are using quartile range because it is the less influenced by the **extreme values**.
+* Because when we collect the data set we are not going to consider at very low values at the same time very high values. So the middle values which is not affected by extremes that is taken for further calculation .For that purpose we are using **interquartile range**.

@@ -118,10 +118,10 @@ $$\Large{\color{Purple}\textit{Inter-Quartile range} = Q_3 - Q_1}$$
 </p>
 
 <b><ins>Next</ins></b>: Subtract the mean from each and every elements of the dataset.
-   *  $\large{\color{Purple}(5-13)=-8}$
-   *  $\large{\color{Purple}(9-13)=-4}$
-   *  $\large{\color{Purple}(16-13)=3}$
-   *  $\large{\color{Purple}(17-13)=4}$
-   *  $\large{\color{Purple}(18-13)=5}$
+   *  $\large{\color{Purple}(5-13)=-8}$ negative deviation
+   *  $\large{\color{Purple}(9-13)=-4}$   "          " 
+   *  $\large{\color{Purple}(16-13)=3}$  positive deviation
+   *  $\large{\color{Purple}(17-13)=4}$    "         "
+   *  $\large{\color{Purple}(18-13)=5}$    "         "
 
- We got $\large{\color{Purple}\textrm{Deviations from the mean: } -8,-4,3,4,5 }$
+<b><ins>Finally</ins></b>: We got $\large{\color{Purple}\[ -8,-4,3,4,5 \]}$

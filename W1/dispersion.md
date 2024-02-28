@@ -203,4 +203,21 @@ $$\Large{\color{Purple}\begin{matrix*}[c]
 \end{matrix*}}$$
 
 #### Why ?
-<ins><b>Variance</ins></b> is a squared number that we cannot compare. Suppose the two numbers are given say 12 and 13 that is easy intuitively we can say which is higher which is smaller. Suppose 124, 169 is given notice squared number. We cannot compare intuitively and not only that it is in the square root of squared term. We want to have it in the actual term so for comparison purpose for that purpose we are taking square root of that.
+<ins><b>Variance</ins></b> is a **squared number** that we **cannot compare**. Suppose the two numbers are given say 12 and 13 that is easy intuitively we can say which is higher which is smaller. Suppose 124, 169 is given notice they are squared numbers. We cannot compare intuitively and not only that it is in the **square root** of **squared term**. 
+
+We want to have it in the actual term so for comparison purpose for that purpose we are taking square root of that.
+
+
+### $\large{\color{Purple}4\ \underline{\textrm{Sample Variance:}}}$  
+
+<div align="center">
+ 
+|$\large{\color{Purple}X}$| $\large{\color{Purple}X - \bar{X}}$ | $\large{\color{Purple}(X - \bar{X} )^2 }$|
+|:----:|:----:|:---:|
+|2398|625|390625|
+|1844|71|5041|
+|1539|-234|54756|
+|1311|-462|213444|
+| 7,092| $\large{\color{Blue}0}$| $\large{\color{Blue}633866}$|
+
+</div>

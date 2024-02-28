@@ -306,6 +306,6 @@ If it is skewed data you go for **median as the center tendency**. If it is foll
 * $\large{\color{Purple}\textrm{Raw Data: 14, 12, 19, 23, 5, 13, 28, 17}}$, let's make it ordered-
 *  $\large{\color{Purple}\textrm{Ordered Array: 5, 12, 13, 14, 17, 19, 23, 28}}$
 * Location of <b>30<sup>th</sup></b> **percentile**:  $\large{\color{Purple}f = 30/100 * (8) = 2.4}$
-* The **location index i** is not a **whole number**;  $\large{\color{Purple}(i + 1) = (2.4 + 1) = 3.4}$ the **whole number portion** is **3**; the <b>30<sup>th</sup></b> **percentile** is at the <b>3<sup>rd</sup></b> location of the **array**; the b>30<sup>th</sup></b> **percentile = 13**.
+* The **location index i** is not a **whole number**;  $\large{\color{Purple}(i + 1) = (2.4 + 1) = 3.4}$ the **whole number portion** is **3**; the <b>30<sup>th</sup></b> **percentile** is at the <b>3<sup>rd</sup></b> location of the **array**; the <b>30<sup>th</sup></b> **percentile = 13**.
 
 ### [Next page](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md)

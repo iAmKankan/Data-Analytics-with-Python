@@ -180,7 +180,10 @@ $$\Large{\color{Purple}\begin{matrix*}[c]
 
 ### $\large{\color{Purple}5.\ \underline{\textrm{Population Standerd Deviation:}}}$  
 * Square root of the Variance.
-
+  
+<div align="center">
+ 
+|$\large{\color{Purple}X}$| $\large{\color{Purple}X - \mu}$ | $\large{\color{Purple}(X - \mu )^2 }$|
 |:----:|:----:|:---:|
 |5|-8|+8|
 |9|-4|+4|

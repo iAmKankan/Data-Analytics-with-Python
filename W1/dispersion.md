@@ -106,7 +106,8 @@ $$\Large{\color{Purple}\textit{Inter-Quartile range} = Q_3 - Q_1}$$
 ### $\large{\color{Purple}\textrm{Example:}}$
 * $\large{\color{Purple}\textrm{Given dataset: } 5,9,16,17,18 }$
 * Let's findout the Mean $\large{\color{Purple}\mu = \dfrac{\sum X}{N}= \dfrac{65}{5}=13}$
-* $\large{\color{Purple}\textrm{Deviations from the mean: } -8,-4,3,4,5 }$
+*  $\large{\color{Purple}\textrm{Deviation from the mean: } \dfrac{\sum X - \mu}{N}}$
+* $\large{\color{Purple}\textrm{Results: } \[-8,-4,3,4,5 \] = 0}$
 
 #### Explanetion:
 <b><ins>First</ins></b>: findout the mean from the dataset. which is **13**.
@@ -124,7 +125,7 @@ $$\Large{\color{Purple}\textit{Inter-Quartile range} = Q_3 - Q_1}$$
    *  $\large{\color{Purple}(17-13)=4}$     
    *  $\large{\color{Purple}(18-13)=5}$    
 
-<b><ins>Finally</ins></b>: We got $\large{\color{Purple}\[ -8,-4,3,4,5 \]}$
+<b><ins>Finally</ins></b>: We got $\large{\color{Purple}\[ -8,-4,3,4,5 \] =0}$
 
 Suppose if we want to add the deviation general it will become **0**. That is why we should go for **mean absolute deviation**.
 

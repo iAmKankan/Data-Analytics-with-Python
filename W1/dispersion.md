@@ -92,4 +92,9 @@ We have arranged the data in the **ascending order**. First we got to find out t
    * First you have to find out the location index **i** for that $\large{\color{Purple}i = \dfrac{75}{100} \times (8) = 6}$ . Since the 6 is the even number, we have to find out <ins><b>that position plus the next position and its average</ins></b>. <b>6<sup>th</sup></b> = **122**, <b>7<sup>th</sup></b> = **125**
    * So, $\large{\color{Purple}Q_{3} = \dfrac{122 + 125}{2} = 123.5}$
 
-### $\large{\color{Purple}3.\ \underline{\textrm{Inter-quartile range:}}}$  
+### $\large{\color{Purple}3.\ \underline{\textrm{Inter-Quartile range:}}}$  
+* Range of values between the **first quartile** and **third quartile**
+* Range of the "**middle half**"
+* Less influenced by **extremes**
+
+  $$\large{\color{Purple}\textrrm{Inter-Quartile range} = Q_3 - Q_1}$$

@@ -229,5 +229,5 @@ S^2 &=& \dfrac{\sum ( X - \bar{X} )^2}{n-1}\\
 \end{matrix*}}$$
 
 * Why we are dividing by **n -1**? the reason is that to make the **variance** as the **unbiased** estimator. This is due to **degrees of freedom**, since we already know the value of the mean will last one **degrees of freedom**.
-* That we are dividing by **n – 1** so it is very important whenever you find the sample variance so the in the denominator there should be a **n - 1**.
+* That we are dividing by **n – 1** so it is very important whenever you find the sample variance so the in the denominator there should be a **n-1**.
 * So here the variance is **221,288.67**.

@@ -92,7 +92,7 @@ We have arranged the data in the **ascending order**. First we got to find out t
    * First you have to find out the location index **i** for that $\large{\color{Purple}i = \dfrac{75}{100} \times (8) = 6}$ . Since the 6 is the even number, we have to find out <ins><b>that position plus the next position and its average</ins></b>. <b>6<sup>th</sup></b> = **122**, <b>7<sup>th</sup></b> = **125**
    * So, $\large{\color{Purple}Q_{3} = \dfrac{122 + 125}{2} = 123.5}$
 
-### $\large{\color{Purple}3.\ \underline{\textrm{Inter-Quartile range:}}}$  
+### $\large{\color{Purple}2.1. \ \underline{\textrm{Inter-Quartile range:}}}$  
 * Range of values between the **first quartile** and **third quartile**
 * Range of the "**middle half**"
 * Less influenced by **extremes**
@@ -102,7 +102,7 @@ $$\Large{\color{Purple}\textit{Inter-Quartile range} = Q_3 - Q_1}$$
 * Why we are using quartile range because it is the less influenced by the **extreme values**.
 * Because when we collect the data set we are not going to consider at very low values at the same time very high values. So the middle values which is not affected by extremes that is taken for further calculation .For that purpose we are using **interquartile range**.
 
-### $\large{\color{Purple}4.\ \underline{\textrm{Deviation from the mean:}}}$  
+### $\large{\color{Purple}3.\ \underline{\textrm{Deviation from the mean:}}}$  
 ### $\large{\color{Purple}\textrm{Example:}}$
 * $\large{\color{Purple}\textrm{Given dataset: } 5,9,16,17,18 }$
 * Let's findout the Mean $\large{\color{Purple}\mu = \dfrac{\sum X}{N}= \dfrac{65}{5}=13}$
@@ -129,7 +129,7 @@ $$\Large{\color{Purple}\textit{Inter-Quartile range} = Q_3 - Q_1}$$
 
 Suppose if we want to add the deviations in general it will become **0**. That is why we should go for **mean absolute deviation**.
 
-### $\large{\color{Purple}5.\ \underline{\textrm{Mean Absolute Deviation:}}}$  
+### $\large{\color{Purple}3.1.\ \underline{\textrm{Mean Absolute Deviation:}}}$  
 
 <div align="center">
  
@@ -149,3 +149,14 @@ M.A.D &=& \dfrac{\sum \mid X - \mu \mid}{N}\\
  &=& \dfrac{24}{5}\\
   &=& 4.8\\
 \end{matrix*}}$$
+
+### $\large{\color{Purple}4\ \underline{\textrm{Population Variance:}}}$  
+There was a problem in the **mean absolute deviation**.
+
+<ins><b>Population Variance:</ins></b> It is the average of the **squared deviation** from the **arithmetic mean**. 
+* We have used the **Mean Absolute Deviation** to avoid the result becoming zero **0** by the presents of negetive values in the diviations list.
+* Now we are going to square it, the squaring of the deviation having some advantage.
+  * **One advantage** is we can remove the **negative sign**,
+  * **second one** is the deviation is less when you square it. **For example:** **- 4** square is **16**, **- 8** square is **64**. So, more deviation gives more squared value. (<ins><b>It is giving higher penalty for higher deviation values</ins></b>)
+
+### $\large{\color{Purple}4.1.\ \underline{\textrm{Variance:}}}$  

@@ -298,14 +298,14 @@ If it is skewed data you go for **median as the center tendency**. If it is foll
 
 ### $\large{\color{Purple}\underline{\textrm{Percentile Computational Precedure}}}$
 * Organize the data into an **ascending ordered array** Calculate the <b>p<sup>th</sup></b> percentile location:  $\large{\color{Purple}i = \frac{P}{100} \times n}$
-* Determine the percentile's location and its value.
-* If **i** is a whole number, the percentile is the average of the values at the **i** and (**i+1**) positions
-* If **i** is not a whole number, the percentile is at the **(i + 1)** position in the ordered array
+* Determine the **percentile's location** and its **value**.
+* If **i** is a <ins><b>whole number</ins></b>, the **percentile** is the <ins><b>average of the values</ins></b> at the **i** and (**i+1**) positions.
+* If **i** is not a <ins><b>whole number</ins></b>, the **percentile** is at the **(i + 1)** position in that **ordered array**.
   
 ### $\large{\color{Purple}\underline{\textrm{Example: Percentile}}}$
-* Raw Data: 14, 12, 19, 23, 5, 13, 28, 17
-* Ordered Array: 5, 12, 13, 14, 17, 19, 23, 28
-* Location of 30<sup>th</sup> percentile: f = 30/100 * (8) = 2.4
-* The location index, i, is not a whole number; i + 1 = 2.4 + 1 = 3.4 the whole number portion is 3; the 30th percentile is at the 3rd location of the array; the 30th percentile is 13.
+* $\large{\color{Purple}\textrm{Raw Data: 14, 12, 19, 23, 5, 13, 28, 17}}$, let's make it ordered-
+*  $\large{\color{Purple}\textrm{Ordered Array: 5, 12, 13, 14, 17, 19, 23, 28}}$
+* Location of <b>30<sup>th</sup></b> **percentile**:  $\large{\color{Purple}f = 30/100 * (8) = 2.4}$
+* The **location index i** is not a **whole number**;  $\large{\color{Purple}(i + 1) = (2.4 + 1) = 3.4}$ the **whole number portion** is **3**; the <b>30<sup>th</sup></b> **percentile** is at the b>3<sup>rd</sup></b> location of the **array**; the b>30<sup>th</sup></b> **percentile = 13**.
 
 ### [Next page](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md)

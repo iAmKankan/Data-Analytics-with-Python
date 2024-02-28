@@ -281,3 +281,25 @@ Suppose the result of an exam Left-skewed distribution is for a overall good sco
 Now after looking at this hypothetical problem now the question arises when to use **mean**, when to use **median**, **mode**. Well just look at the **location of the median**. The **median** is always in the **middle**. Whether the data is **left skewed** or **right skewed** the **median** is always the **middle**. 
 
 So whenever the data is **skewed** you should go for **median as a central tendency**. If your data is following a **bell-shaped curve** then you can use **mean**, **median**, **mode**.
+
+There is no problem at all the clue for that choosing the correct central is first you have to **plot that curve** go to plot the data outer plotting the data you have to get an idea of the **skewness of the data set**.
+
+If it is skewed data you go for **median as the center tendency**. If it is following a **bell-shaped curve** you go for **mean or median or mode as a central tendency**.
+
+
+### $\large{\color{Purple}5. \underline{\textrm{Percentile:}}}$
+* Measures of **central tendency** that divide a group of data into 100 parts.
+   * Example: 90<sup>th</sup> percentile indicates that at most 90% of the data lie below it, and at least 10% of the data lie above it
+* The median and the 50th percentile have the same value
+* Applicable for ordinal, interval, and ratio data .
+* Not applicable for nominal data
+
+.Percentile is having some advantage over percentage because percentage is absolute term but the percentile is the relative term the measure of central tendency that divide a group of data into 100 parts it is called percentile.
+
+### $\large{\color{Purple}\underline{\textrm{Percentile Computational Precedure}}}$
+* Organize the data into an **ascending ordered array** Calculate the <b>p<sup>th</sup></b> percentile location:  $\large{\color{Purple}i = \frac{P}{100} (n)}$
+* Determine the percentile's location and its value.
+* If **i** is a whole number, the percentile is the average of the values at the **i** and (**i+1**) positions
+* If **i** is not a whole number, the percentile is at the **(i + 1)** position in the ordered array
+
+  

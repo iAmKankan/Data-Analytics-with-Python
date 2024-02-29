@@ -362,4 +362,8 @@ C.V._2 &=& \dfrac{\sigma_1}{\mu_1}(100)\\
 
  Now there is a **contradiction**, with respect to **mean** **Stock B** is **better**, with represent **standard deviation** **Stock A** is better. 
  
- Now there is a **contradiction** to need to have the **trade off**. In this situation we have to go for this **coefficient of variation**, <ins><b>coefficient of variation = &mu; / &sigma; </ins></b>. For example, for this case; = (4.6 / 29)x 100 = 15.86, for second case = σ2 /μ2 = (10 /84 )x 100 = 11.90. Lower the coefficient of variation, but have the option is. So, if the variance is smaller, to be able to choose that group, or that stock.
+ Now there is a **contradiction** to need to have the **trade off**. 
+ * In this situation we have to go for this **coefficient of variation**, <ins><b>Coefficient of Variation</ins> = &sigma; /  &mu;  </b>. For example:
+ * For **stock A** case = <b>&sigma;<sub>1</sub> /  &mu;<sub>1</sub>  = (4.6 / 29)x 100 = 15.86</b>,
+ * For **stock B** case = <b>&sigma;<sub>2</sub> /  &mu;<sub>2</sub>  = (10 /84 )x 100 = 11.90</b>.
+ *  Lower the <ins><b>Coefficient of Variation</ins></b>, but have the option is. So, if the variance is smaller, to be able to choose that group, or that stock.

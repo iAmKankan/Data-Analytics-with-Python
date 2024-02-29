@@ -316,12 +316,22 @@ Actually this **1, 2, 3** is nothing but **Z**
 
 
 ### 🔲 $\large{\color{Purple} \ \underline{\textrm{Chebysheff’s Theorem:}}}$  
+The previously we have seen that the properties of normal distribution, that is a **bell shaped curve**. Sometimes certain phenomenon need not follow the **bell shaped curve**. That time, you cannot use that property of Empirical Rule; you had to go for another formula for to find out how much observations are covering under 1σ, 2 σ and 3 σ distance. This idea was given by Chebysheff’s.
 
-* A more general interpretation of the **standard deviation** is derived from **Chebysheff's Theorem**, which applies to all shapes of histograms (**not just bell shaped**).
-* The proportion of observations in any sample that lie within **k** standard deviations of the mean is at least:
+* A more general interpretation of the **standard deviation** is derived from **Chebysheff's Theorem**, which applies to **all shapes of histograms** (**not just bell shaped**).
+* The proportion of observations in any sample that lie within **k** standard deviations of the mean is at leas- 
 
 $$\Large{\color{Purple}1 - \dfrac{1}{k^ 2} \ \ \ \  for \ \  k > 1}$$
 
 * For k=2 (say), the theorem states that at least 3/4 of all observations lie within 2 standard deviations of the mean. This is a "lower bound" compared to Empirical Rule's approximation (95%)
 
+ Suppose a phenomenon which is not following **normal distribution**. If you want to know the 2 σ distances, how much percentage of observation can be covered? So when you substitute here 1- (1/ k 2 )= 1-1/4 = 3/4. So, 3/4 means 75 %. So if you are travel 2 σ distance on the either side. For a distribution which is not following normal distribution. You can cover 75 % of all observations.
+
+You see the previously; It is 95 %. So you see that that is a given. For k equal to 2, the theorem states that, at least 3/4th of all observations lie within two standard deviation of the mean. This is lower bound compared to empirical rule approximation 95 %. In case the previous slide, if it is 2. We can cover 95% of all observations, but here we can cover only 75% of all observations. Sometime we can use Chebysheff’s theorem also; the data is not following normal distribution.
+
+### 🔲 $\large{\color{Purple} \ \underline{\textrm{Coefficient of Variation:}}}$  
+* Ratio of the standard deviation to the mean, expressed as a percentage
+* Measurement of relative dispersion
+
+$$\Large{\color{Purple}C.V = \dfrac{\sigma}{\mu}(100)}$$
 

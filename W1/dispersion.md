@@ -318,7 +318,7 @@ Actually this **1, 2, 3** is nothing but **Z**
 ### 🔲 $\large{\color{Purple} \ \underline{\textrm{Chebysheff’s Theorem:}}}$  
 
 * A more general interpretation of the **standard deviation** is derived from **Chebysheff's Theorem**, which applies to all shapes of histograms (**not just bell shaped**).
-* The proportion of observations in any sample that lie within k standard deviations of the mean is at least:
+* The proportion of observations in any sample that lie within **k** standard deviations of the mean is at least:
 
 $$\Large{\color{Purple}1 - \dfrac{1}{k^ 2} \ \ \ \  for \ \  k > 1}$$
 

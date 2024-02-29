@@ -474,3 +474,9 @@ The skewness of a distribution is measured by comparing the relative positions o
   * **Median** lies between **mode** and **mean**, and **mode is less than mean**.
 * If the Distribution is **skewed left**
   *  **Median** lies between **mode** and **mean** and **mode is greater than mean**.  
+
+<p align="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/97d803d4-8af7-4ca9-86bd-0934c845d010" width=40%/>
+ <br>
+ <ins><b><i>Different Types of Skewness</i></b></ins> 
+</p>

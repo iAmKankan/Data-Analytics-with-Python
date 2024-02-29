@@ -272,3 +272,14 @@ In quality control context generally when we manufacture something suppose here 
 
 The **process capability** also they should have the <ins><b>lesser variance means in the process capabilities high</ins></b>. Then I suppose therefore comparing the populations household income of 2 cities, employee absenteeism in 2 plants for these purposes, it is for comparing the population that means 
 * <ins><b>wherever there is a lesser standard deviation so that is having higher homogeneous data set</ins></b>.
+
+### $\large{\color{Brown} \ \underline{\textrm{ Standard Deviation as an Indicator of Financial Risk:}}}$  
+
+
+<p align="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/17bb257e-7457-4cb9-b716-25079e3d5bf1" width=50%/>
+  <br>
+  <ins><b><i> </i></b></ins> 
+</p>
+
+You see look at this one $\large{\color{Purple}\mu}$ and $\large{\color{Purple}\sigma}$, see this is a financial **security A** and **B**. See the return rate is 15, 15 it is both are giving equal return but look at this the σ standard deviation because in financial context it is, it is measured as the risk. So the first one is 3% second with 7% so the security B having a higher risk, so always we will go for where there is a lesser standard deviation because mean is same. We are the same time the risk all should be same. So far we have seen different central tendencies, different dispersions. In the coming class will use Python will take some sample data set. I will explain you how to find out central tendency and the dispersion of the given data set. Thank you very much.

@@ -495,7 +495,7 @@ $$\Large{\color{Purple} S = \dfrac{3(\mu - M_d)}{\sigma}}$$
 #### Example:
 $$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
 \mu_1 &=& 23\\
-M_{d1} &=& 26
+M_{d1} &=& 26\\
  \sigma_1 &=& 12.3\\
 S_1 &=& \dfrac{3(\mu_1 - M_{d1})}{\sigma_1}\\
  &=& \dfrac{3(23-26)}{12.3}\\
@@ -503,19 +503,19 @@ S_1 &=& \dfrac{3(\mu_1 - M_{d1})}{\sigma_1}\\
 \end{matrix*} }
 \hspace{35pt}
 \boxed{\begin{matrix*}[c]
-\mu_1 &=& 23\\
-M_{d1} &=& 26
- \sigma_1 &=& 12.3\\
-S_1 &=& \dfrac{3(\mu_1 - M_{d1})}{\sigma_1}\\
- &=& \dfrac{3(23-26)}{12.3}\\
- &=& -0.73\\
+\mu_2 &=& 23\\
+M_{d2} &=& 26\\
+ \sigma_2 &=& 12.3\\
+S_2 &=& \dfrac{3(\mu_2 - M_{d1})}{\sigma_2}\\
+ &=& \dfrac{3(26-26)}{12.3}\\
+ &=& 0\\
 \end{matrix*} }
 \hspace{35pt}
 \boxed{\begin{matrix*}[c]
-\mu_1 &=& 23\\
-M_{d1} &=& 26
- \sigma_1 &=& 12.3\\
-S_1 &=& \dfrac{3(\mu_1 - M_{d1})}{\sigma_1}\\
- &=& \dfrac{3(23-26)}{12.3}\\
- &=& -0.73\\
+\mu_3 &=& 29\\
+M_{d3} &=& 26\\
+ \sigma_3 &=& 12.3\\
+S_3 &=& \dfrac{3(\mu_3 - M_{d3})}{\sigma_3}\\
+ &=& \dfrac{3(29-26)}{12.3}\\
+ &=& +0.73\\
 \end{matrix*}}}$$

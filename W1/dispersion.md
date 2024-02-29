@@ -283,3 +283,5 @@ The **process capability** also they should have the <ins><b>lesser variance mea
 </p>
 
 You see look at this one $\large{\color{Purple}\mu}$ and $\large{\color{Purple}\sigma}$, see this is a financial **security A** and **B**. See the return rate is 15, 15 it is both are giving equal return but look at this the σ standard deviation because in financial context it is, it is measured as the risk. So the first one is 3% second with 7% so the security B having a higher risk, so always we will go for where there is a lesser standard deviation because mean is same. We are the same time the risk all should be same. So far we have seen different central tendencies, different dispersions. In the coming class will use Python will take some sample data set. I will explain you how to find out central tendency and the dispersion of the given data set. Thank you very much.
+
+

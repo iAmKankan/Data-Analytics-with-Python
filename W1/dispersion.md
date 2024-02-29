@@ -268,4 +268,7 @@ S &=& \sqrt{221,288.67}\\
     
 **Standard Deviation** is giving an indicator of <ins><b>financial risk</ins></b>. **Higher the standard deviation** is **more risk**, **lesser the standard deviation** is **less at risk**.
 
-In quality control context generally when we manufacture something suppose here **plant A** and **plant B** or **shift A** and **shift B** whenever the variances in lesser then the quality of the product is high.
+In quality control context generally when we manufacture something suppose here **plant A** and **plant B** or **shift A** and **shift B** <ins><b>whenever the variances in lesser then the quality of the product is high</ins></b>.
+
+The **process capability** also they should have the <ins><b>lesser variance means in the process capabilities high</ins></b>. Then I suppose therefore comparing the populations household income of 2 cities, employee absenteeism in 2 plants for these purposes, it is for comparing the population that means 
+* <ins><b>wherever there is a lesser standard deviation so that is having higher homogeneous data set</ins></b>.

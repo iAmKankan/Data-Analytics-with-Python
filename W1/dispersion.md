@@ -288,3 +288,8 @@ You see look at this one $\large{\color{Purple}\mu}$ and $\large{\color{Purple}\
 The Empirical Rule says how much of the data lies within **one**, **two**, **three** <ins><b>standerd deviation of the mean</ins></b>(for approx normal distribution).
 
 The **empirical rule**, also sometimes called the <ins><b>three-sigma</ins></b> or <ins><b>68-95-99.7</ins></b> rule, is a **statistical rule** which states that for normally distributed data, almost all observed data will fall within three standard deviations (denoted by the Greek letter **sigma**, or $\large{\color{Purple}\sigma}$ ) of the mean or average (represented by the Greek letter **mu**, or $\large{\color{Purple}\mu}$ ) of the data.
+
+
+<p align="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/9c24ccbf-9e31-49f2-b6f5-8fa3d3a1685f" width=90%/>
+</p>

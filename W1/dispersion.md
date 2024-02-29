@@ -418,12 +418,12 @@ $$\Large{\color{Purple}\begin{matrix*}[c]
 #### <ins><b>Skewness</ins></b>
 * Absence of symmetry
 * Extreme values in one side of a distribution
-####  <ins><b>Kurtosis</ins></b>
+#### <ins><b>Kurtosis</ins></b>
 Peakedness of a distribution
 * <ins><b>Leptokurtic</ins></b>: high and thin
 * <ins><b>Mesokurtic</ins></b>: normal shape
 * <ins><b>Platykurtic</ins></b>: flat and spread out
-####  $\large{\color{Purple}\underline{\textrm{Box and Whisker Plots}}}$
+#### <ins><b>Box and Whisker Plots</ins></b>
 * Graphic display of a distribution
 * Reveals skewness
 
@@ -450,3 +450,27 @@ It is the <ins><b>peakedness of a distribution</b></ins> . There are three layer
 * <ins><b>Leptokurtic</b></ins> means high and thin
 * <ins><b>Mesokurtic</b></ins> is little flat in this way and
 *  <ins><b>Platykurtic</b></ins> very very flat this way flat and spread out.
+
+####  $\large{\color{Purple}\underline{\textrm{Box and Whisker Plots}}}$
+It is a graphical display of distribution. It reveals skewness. The application of boxer whisker plot is to check whether the data, follow a symmetry or what is the nature of the skewness of the distribution.
+
+### 🔲 $\large{\color{Brown}\underline{\textrm{Skewness:}}}$  
+
+<p align="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/3443543c-93d8-4876-a51f-983505e35e9e" width=30%/>
+ <br>
+ <ins><b><i>Different Types of Skewness</i></b></ins> 
+</p>
+
+* Look at the skewness left one which is in **orange**  it is the **negatively skewed**. As we know skewness is how it is named is looking at the **tail**- the **tail is on the left hand side** so it is a **left skewed** or **negatively skewed**.
+* Come to the **blue** one, the **extreme right**. It is this **tail is on the right hand side**, so, it is a **right skewed** or **positively skewed**.
+* The **middle** one there is **no skewness**, so it is **symmetric**.
+
+#### Some more points on Skewness
+The skewness of a distribution is measured by comparing the relative positions of the mean, median and mode.
+* If the Distribution is **symmetrical**
+  * **Mean** = **Median** = **Mode**
+* if the Distribution is **skewed right**
+  * **Median** lies between **mode** and **mean**, and **mode is less than mean**.
+* If the Distribution is **skewed left**
+  *  **Median** lies between **mode** and **mean** and **mode is greater than mean**.  

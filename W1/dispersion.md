@@ -322,6 +322,6 @@ Actually this **1, 2, 3** is nothing but **Z**
 
 $$\Large{\color{Purple}1 - \dfrac{1}{k^ 2} \ \ \ \  for \ \  k > 1}$$
 
-For k=2 (say), the theorem states that at least 3/4 of all observations lie within 2 standard deviations of the mean. This is a "lower bound" compared to Empirical Rule's approximation (95%)
+* For k=2 (say), the theorem states that at least 3/4 of all observations lie within 2 standard deviations of the mean. This is a "lower bound" compared to Empirical Rule's approximation (95%)
 
 

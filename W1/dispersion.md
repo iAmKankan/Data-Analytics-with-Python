@@ -366,4 +366,4 @@ C.V._2 &=& \dfrac{\sigma_1}{\mu_1}(100)\\
  * In this situation we have to go for this **coefficient of variation**, <ins><b>Coefficient of Variation</ins> = &sigma; /  &mu;  </b>. For example:
  * For **stock A** case = <b>&sigma;<sub>1</sub> /  &mu;<sub>1</sub>  = (4.6 / 29)x 100 = 15.86</b>,
  * For **stock B** case = <b>&sigma;<sub>2</sub> /  &mu;<sub>2</sub>  = (10 /84 )x 100 = 11.90</b>.
- *  Lower the <ins><b>Coefficient of Variation</ins></b>, but have the option is. So, if the variance is smaller, to be able to choose that group, or that stock.
+ * **Lower** the <ins><b>Coefficient of Variation</ins></b>, but have the option is. So, if the Coefficient of variance is smaller that goup here **Stock B** has to be choosen.

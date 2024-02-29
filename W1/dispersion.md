@@ -257,7 +257,7 @@ S &=& \sqrt{221,288.67}\\
 
 * So, a **square root** of the **variance** is nothing but **standard deviation**.
  
-### 🔲 $\large{\color{Brown} \ \underline{\textrm{Uses of Standard Deviation:}}}$  
+### 🔲 $\large{\color{Brown} \underline{\textrm{Uses of Standard Deviation:}}}$  
 * Indicator of financial risk
 * Quality Control
   * construction of quality control charts
@@ -273,7 +273,7 @@ In quality control context generally when we manufacture something suppose here 
 The **process capability** also they should have the <ins><b>lesser variance means in the process capabilities high</ins></b>. Then I suppose therefore comparing the populations household income of 2 cities, employee absenteeism in 2 plants for these purposes, it is for comparing the population that means 
 * <ins><b>wherever there is a lesser standard deviation so that is having higher homogeneous data set</ins></b>.
 
-### $\large{\color{Brown} \ \underline{\textrm{Standard Deviation as an Indicator of Financial Risk:}}}$  
+### $\large{\color{Brown} \underline{\textrm{Standard Deviation as an Indicator of Financial Risk:}}}$  
 
 
 <p align="center">
@@ -284,7 +284,7 @@ The **process capability** also they should have the <ins><b>lesser variance mea
 
 You see look at this one $\large{\color{Purple}\mu}$ and $\large{\color{Purple}\sigma}$, see this is a financial **security A** and **B**. See the return rate is 15, 15 it is both are giving equal return but look at this the σ standard deviation because in financial context it is, it is measured as the risk. So the first one is 3% second with 7% so the security B having a higher risk, so always we will go for where there is a lesser standard deviation because mean is same. We are the same time the risk all should be same. So far we have seen different central tendencies, different dispersions. In the coming class will use Python will take some sample data set. I will explain you how to find out central tendency and the dispersion of the given data set. Thank you very much.
 
-### 🔲 $\large{\color{Purple} \ \underline{\textrm{Empirical Rule:}}}$  
+### 🔲 $\large{\color{Purple}\underline{\textrm{Empirical Rule:}}}$  
 The Empirical Rule says how much of the data lies within **one**, **two**, **three** <ins><b>standerd deviation of the mean</ins></b>(for approx normal distribution).
 
 The **empirical rule**, also sometimes called the <ins><b>three-sigma</ins></b> or <ins><b>68-95-99.7</ins></b> rule, is a **statistical rule** which states that for normally distributed data, almost all observed data will fall within three standard deviations (denoted by the Greek letter **sigma**, or $\large{\color{Purple}\sigma}$ ) of the mean or average (represented by the Greek letter **mu**, or $\large{\color{Purple}\mu}$ ) of the data.
@@ -315,7 +315,7 @@ But there is a **limitation** of this **Empirical Rule**. It is applicable only 
 Actually this **1, 2, 3** is nothing but **Z**
 
 
-### 🔲 $\large{\color{Purple} \ \underline{\textrm{Chebysheff’s Theorem:}}}$  
+### 🔲 $\large{\color{Purple} \underline{\textrm{Chebysheff’s Theorem:}}}$  
 The previously we have seen that the properties of normal distribution, that is a **bell shaped curve**. Sometimes certain phenomenon need not follow the **bell shaped curve**. That time, you cannot use that property of Empirical Rule; you had to go for another formula for to find out how much observations are covering under 1σ, 2 σ and 3 σ distance. This idea was given by Chebysheff’s.
 
 * A more general interpretation of the **standard deviation** is derived from **Chebysheff's Theorem**, which applies to **all shapes of histograms** (**not just bell shaped**).
@@ -329,7 +329,7 @@ $$\Large{\color{Purple}1 - \dfrac{1}{k^ 2} \ \ \ \  for \ \  k > 1}$$
 
 You see the previously; It is 95 %. So you see that that is a given. For k equal to 2, the theorem states that, at least 3/4th of all observations lie within two standard deviation of the mean. This is lower bound compared to empirical rule approximation 95 %. In case the previous slide, if it is 2. We can cover 95% of all observations, but here we can cover only 75% of all observations. Sometime we can use Chebysheff’s theorem also; the data is not following normal distribution.
 
-### 🔲 $\large{\color{Purple} \ \underline{\textrm{Coefficient of Variation:}}}$  
+### 🔲 $\large{\color{Purple} \underline{\textrm{Coefficient of Variation:}}}$  
 * Ratio of the standard deviation to the mean, expressed as a percentage
 * Measurement of relative dispersion
 
@@ -368,7 +368,7 @@ C.V._2 &=& \dfrac{\sigma_1}{\mu_1}(100)\\
  * For **stock B** case = <b>&sigma;<sub>2</sub> /  &mu;<sub>2</sub>  = (10 /84 )x 100 = 11.90</b>.
  * **Lower** the <ins><b>Coefficient of Variation</ins></b>, but have the option is. So, if the Coefficient of variance is smaller that goup here **Stock B** has to be choosen.
 
-### 🔲 $\large{\color{Purple} \ \underline{\textrm{Variance and Standerd Diviation of Grouped Data:}}}$  
+### 🔲 $\large{\color{Purple}\underline{\textrm{Variance and Standerd Diviation of Grouped Data:}}}$  
 
 $$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
 & {\color{Brown}\textrm{Population}} &\\
@@ -412,3 +412,19 @@ $$\Large{\color{Purple}\begin{matrix*}[c]
 
 * So **144** is the **population variants** of this **grouped data**.
 * If you want to know the **standard deviation** of this group of data, just to take the **square root** of the **variance**, that is **12**.
+
+### 🔲 $\large{\color{Brown}\underline{\textrm{Measures of Shape:}}}$  
+
+####  $\large{\color{Purple}\underline{\textrm{Skewness}}}$
+* Absence of symmetry
+* Extreme values in one side of a distribution
+####  $\large{\color{Purple}\underline{\textrm{Kurtosis}}}$
+Peakedness of a distribution
+* Leptokurtic: high and thin
+* Mesokurtic: normal shape
+* Platykurtic: flat and spread out
+####  $\large{\color{Purple}\underline{\textrm{Box and Whisker Plots}}}$
+* Graphic display of a distribution
+* Reveals skewness
+
+

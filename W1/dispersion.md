@@ -503,7 +503,7 @@ S_1 &=& \dfrac{3(\mu_1 - M_{d1})}{\sigma_1}\\
 \end{matrix*} }
 \hspace{35pt}
 \boxed{\begin{matrix*}[c]
-\mu_2 &=& 23\\
+\mu_2 &=& 26\\
 M_{d2} &=& 26\\
  \sigma_2 &=& 12.3\\
 S_2 &=& \dfrac{3(\mu_2 - M_{d1})}{\sigma_2}\\

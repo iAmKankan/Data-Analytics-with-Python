@@ -311,3 +311,8 @@ But there is a **limitation** of this **Empirical Rule**. It is applicable only 
 |$\Large{\color{Purple} \mu \pm 3 \sigma}$| 99.7%|
 
  </div>
+
+Actually this **1, 2, 3** is nothing but **Z**
+
+
+### 🔲 $\large{\color{Purple} \ \underline{\textrm{Chebysheff’s Theorem:}}}$  

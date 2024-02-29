@@ -367,3 +367,20 @@ C.V._2 &=& \dfrac{\sigma_1}{\mu_1}(100)\\
  * For **stock A** case = <b>&sigma;<sub>1</sub> /  &mu;<sub>1</sub>  = (4.6 / 29)x 100 = 15.86</b>,
  * For **stock B** case = <b>&sigma;<sub>2</sub> /  &mu;<sub>2</sub>  = (10 /84 )x 100 = 11.90</b>.
  * **Lower** the <ins><b>Coefficient of Variation</ins></b>, but have the option is. So, if the Coefficient of variance is smaller that goup here **Stock B** has to be choosen.
+
+### 🔲 $\large{\color{Purple} \ \underline{\textrm{Variance and Standerd Diviation of Grouped Data:}}}$  
+
+$$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
+& {\color{Brown}\textrm{Population}} &\\
+\hline\\
+ \sigma^2 &=& \dfrac{\sum f \big\(  M-\mu \big\)^2}{N}\\
+ \sigma &=& \sqrt{\sigma^2}\\
+\end{matrix*} }
+\hspace{35pt}
+\boxed{
+\begin{matrix*}[c]
+& {\color{Brown}\textrm{Sample}} &\\
+\hline\\
+ S^2 &=& \dfrac{\sum f \big\(  M - \bar{X} \big\)^2}{n-1}\\
+ S &=& \sqrt{S^2}\\
+\end{matrix*}}}$$

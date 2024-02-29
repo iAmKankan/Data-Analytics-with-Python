@@ -480,3 +480,13 @@ The skewness of a distribution is measured by comparing the relative positions o
  <br>
  <ins><b><i>Different Types of Skewness</i></b></ins> 
 </p>
+
+### 🔲 $\large{\color{Brown}\underline{\textrm{Coefficient of Skewness:}}}$  
+
+* Summary measure for skewness
+  
+$$\large{\color{Purple} S = \dfrac{3(\mu - M_d)}{\sigma}$$
+
+* If  **S < 0**, the distribution is <ins><b>negatively skewed<ins><b> (**skewed to the left**)
+* If **S = 0**, the distribution is <ins><b>symmetric<ins><b> (**not skewed**)
+* If **S > 0**, the distribution is <ins><b>positively skewed<ins><b> (**skewed to the right**)

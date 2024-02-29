@@ -440,4 +440,9 @@ Skewness is the **absence of symmetry**. It may be **left skewed data** or a **r
 
 ####  $\large{\color{Purple}\underline{\textrm{Kurtosis}}}$
 
+<p align="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/c61738e0-2bbf-43f6-ad1a-b103eb7c2660" width=40%/>
+ <ins></ins><b></b><i></i>
+</p>
+
 Next one is a kurtosis; it is the peakedness of a distribution. There are three layers, there are Leptokurtic, Mesokurtic, Platykurtic. Leptokurtic means high and thin, Mesokurtic is little flat in this way and Platykurtic very very very very flat this way flat and spread out.

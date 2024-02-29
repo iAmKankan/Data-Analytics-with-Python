@@ -390,3 +390,14 @@ $$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
 *  $\large{\color{Purple} M}$ is the **midpoint of that interval**.
 *  $\large{\color{Purple}\mu}$ is the **mean of the interval**,
 *  $\large{\color{Purple}N}$ is **sum of all frequencies**.
+
+#### For the Sample
+*  $\large{\color{Purple}f}$ is the **frequency**.
+*  $\large{\color{Purple} M}$ is the **midpoint of that interval**.
+*  $\large{\color{Purple}\bar{X}}$ is the **mean of the interval**,
+*  $\large{\color{Purple}n}$ is **sum of all frequencies (n-1)**.
+
+<p aqlign="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/d26c0784-a6ea-4f3f-8ad8-2d4d854080b8" width=90%/>
+ <ins></ins><b></b><i></i>
+</p>

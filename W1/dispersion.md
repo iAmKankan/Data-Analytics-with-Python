@@ -273,7 +273,7 @@ In quality control context generally when we manufacture something suppose here 
 The **process capability** also they should have the <ins><b>lesser variance means in the process capabilities high</ins></b>. Then I suppose therefore comparing the populations household income of 2 cities, employee absenteeism in 2 plants for these purposes, it is for comparing the population that means 
 * <ins><b>wherever there is a lesser standard deviation so that is having higher homogeneous data set</ins></b>.
 
-### $\large{\color{Brown} \ \underline{\textrm{ Standard Deviation as an Indicator of Financial Risk:}}}$  
+### $\large{\color{Brown} \ \underline{\textrm{Standard Deviation as an Indicator of Financial Risk:}}}$  
 
 
 <p align="center">

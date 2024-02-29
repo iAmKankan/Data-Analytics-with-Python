@@ -418,7 +418,7 @@ $$\Large{\color{Purple}\begin{matrix*}[c]
 #### <ins><b>Skewness</ins></b>
 * Absence of symmetry
 * Extreme values in one side of a distribution
-####  $\large{\color{Purple}\underline{\textrm{Kurtosis}}}$
+####  <ins><b>Kurtosis</ins></b>
 Peakedness of a distribution
 * <ins><b>Leptokurtic</ins></b>: high and thin
 * <ins><b>Mesokurtic</ins></b>: normal shape
@@ -436,4 +436,8 @@ This measure is for shape or distribution of a set of data. It allow us to see a
  <ins></ins><b></b><i></i>
 </p>
 
-Skewness is the **absence of symmetry**. It may be **left skewed data** or a **right skewed data** or a **symmetric data**. So the other one the application of skewness is to find out what is the nature of this shape- whether it is skewed or symmetric. Next one is a kurtosis; it is the peakedness of a distribution. There are three layers, there are Leptokurtic, Mesokurtic, Platykurtic. Leptokurtic means high and thin, Mesokurtic is little flat in this way and Platykurtic very very very very flat this way flat and spread out.
+Skewness is the **absence of symmetry**. It may be **left skewed data** or a **right skewed data** or a **symmetric data**. So the other one the application of skewness is to find out what is the nature of this shape- whether it is skewed or symmetric. 
+
+####  $\large{\color{Purple}\underline{\textrm{Kurtosis}}}$
+
+Next one is a kurtosis; it is the peakedness of a distribution. There are three layers, there are Leptokurtic, Mesokurtic, Platykurtic. Leptokurtic means high and thin, Mesokurtic is little flat in this way and Platykurtic very very very very flat this way flat and spread out.

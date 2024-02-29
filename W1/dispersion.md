@@ -292,4 +292,11 @@ The **empirical rule**, also sometimes called the <ins><b>three-sigma</ins></b> 
 
 <p align="center">
  <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/9c24ccbf-9e31-49f2-b6f5-8fa3d3a1685f" width=90%/>
+ <br>
+ <ins><b><i>Empirical Rule for the dataset with Bell shaped curves</i></b></ins>
 </p>
+
+The <ins><b>Normal Distribution</ins></b> is the father of all the distributions if you have any doubt on the **nature of the distributions** or if you are not really sure about what distribution the data follow  you can assume <ins><b>Normal Distribution</ins></b>. 
+
+But there is a **limitation** of this **Empirical Rule**. It is applicable only for the **Bell shaped curves**. There may be a situation, the actual phenomena need not follow bell shaped curve. At that time this formula that is the **empirical rule will not work**. So we will go to another rule-
+

@@ -384,3 +384,9 @@ $$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
  S^2 &=& \dfrac{\sum f \big\(  M - \bar{X} \big\)^2}{n-1}\\
  S &=& \sqrt{S^2}\\
 \end{matrix*}}}$$
+
+#### For the Population
+*  $\large{\color{Purple}f}$ is the **frequency**.
+*  $\large{\color{Purple} M}$ is the **midpoint of that interval**.
+*  $\large{\color{Purple}\mu}$ is the **mean of the interval**,
+*  $\large{\color{Purple}N}$ is **sum of all frequencies**.

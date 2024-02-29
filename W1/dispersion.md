@@ -265,3 +265,7 @@ S &=& \sqrt{221,288.67}\\
 * Comparing populations
   * household incomes in two cities
   * employee absenteeism at two plants
+    
+**Standard Deviation** is giving an indicator of <ins><b>financial risk</ins></b>. **Higher the standard deviation** is **more risk**, **lesser the standard deviation** is **less at risk**.
+
+In quality control context generally when we manufacture something suppose here **plant A** and **plant B** or **shift A** and **shift B** whenever the variances in lesser then the quality of the product is high.

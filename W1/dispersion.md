@@ -470,7 +470,7 @@ It is a graphical display of distribution. It reveals skewness. The application 
 The skewness of a distribution is measured by comparing the relative positions of the mean, median and mode.
 * If the Distribution is **symmetrical**
   * **Mean** = **Median** = **Mode**
-* if the Distribution is **skewed right**
+* If the Distribution is **skewed right**
   * **Median** lies between **mode** and **mean**, and **mode is less than mean**.
 * If the Distribution is **skewed left**
   *  **Median** lies between **mode** and **mean** and **mode is greater than mean**.  

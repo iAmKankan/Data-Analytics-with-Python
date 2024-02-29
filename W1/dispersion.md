@@ -404,10 +404,8 @@ $$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
 
 $$\Large{\color{Purple}\begin{matrix*}[c]
  \sigma^2 &=& \dfrac{\sum f \big\(  M-\mu \big\)^2}{N}\\
- &=& \dfrac{7200}{50}\\
-  &=& 144\\
- \sigma &=& \sqrt{\sigma^2}\\
-   &=& \sqrt{144}\\
+ &=& \dfrac{7200}{50} = 144\\
+ \sigma  &=& \sqrt{144}\\
      &=& 12\\
 \end{matrix*} 
 }$$

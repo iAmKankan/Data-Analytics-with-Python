@@ -300,3 +300,14 @@ The <ins><b>Normal Distribution</ins></b> is the father of all the distributions
 
 But there is a **limitation** of this **Empirical Rule**. It is applicable only for the **Bell shaped curves**. There may be a situation, the actual phenomena need not follow bell shaped curve. At that time this formula that is the **empirical rule will not work**. So we will go to another rule-
 
+#### Data are normally distributed ( or approximately Normal)
+
+<div align="center">
+
+|Distance From the <br> Mean | Percentage of Values <br>falling within Distance|
+|:---:|:---:|
+|$\Large{\color{Purple} \mu \pm 1 \sigma}$| 68%|
+|$\Large{\color{Purple} \mu \pm 2 \sigma}$| 95%|
+|$\Large{\color{Purple} \mu \pm 3 \sigma}$| 99.7%|
+
+ </div>

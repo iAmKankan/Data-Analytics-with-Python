@@ -519,3 +519,5 @@ S_3 &=& \dfrac{3(\mu_3 - M_{d3})}{\sigma_3}\\
  &=& \dfrac{3(29-26)}{12.3}\\
  &=& +0.73\\
 \end{matrix*}}}$$
+
+You will see an example. μ1 is 23, median1 is 26, σ1 is 12.3, and you apply this formula, = 3 x (23- 26 )/ 12.3 we are getting negative, so it is a negatively skewed. Go to the middle one μ2 equal to 26, median2 equal to 26, so 26 - 26 = 0. So S2 equal to 0. For this distribution the 118 skewness is 0 or it is symmetric. The right one μ3 equal to 29, median is 26, σ3 is 12.3, and you substitute here we are getting positive value for S3. So the skewness is positive.

@@ -232,7 +232,7 @@ S^2 &=& \dfrac{\sum ( X - \bar{X} )^2}{n-1}\\
 * That we are dividing by **n – 1** so it is very important whenever you find the sample variance so the in the denominator there should be a **n-1**.
 * So here the variance is **221,288.67**.
 
-### $\large{\color{Purple}6. \ \underline{\textrm{Sample Standerd Deviation:}}}$  
+### $\large{\color{Purple}7. \ \underline{\textrm{Sample Standerd Deviation:}}}$  
 
 <div align="center">
  
@@ -254,3 +254,14 @@ S &=& \sqrt{S^2}\\
 S &=& \sqrt{221,288.67}\\
 &=& 470.41
 \end{matrix*}}$$
+
+* So, a **square root** of the **variance** is nothing but **standard deviation**.
+* 
+### 🔲 $\large{\color{Brown} \ \underline{\textrm{Uses of Standard Deviation:}}}$  
+*  Indicator of financial risk
+*  Quality Control
+  * construction of quality control charts
+  * process capability studies
+* Comparing populations
+  * household incomes in two cities
+  * employee absenteeism at two plants

@@ -353,3 +353,13 @@ C.V._2 &=& \dfrac{\sigma_1}{\mu_1}(100)\\
  &=& \dfrac{10}{84}(100)\\
  &=& 11.90\\
 \end{matrix*}}}$$
+
+* Look at the above, leftside- **stock A** or **stock 1** : right side **stock B** or **stock 2**.
+* **Stock A**: $\large{\color{Purple}\mu_1 = 29}$, $\large{\color{Purple}\sigma_1 = 4.6}$.
+* **Stock B**:  $\large{\color{Purple}\mu_2 = 84}$,  $\large{\color{Purple}\sigma_2 = 10}$
+* Supposed to choose which is better. If you compare only the **mean**, 29 verses 84, the **stock 2** is better.
+* Suppose if you compare the **standard deviation**, **4.6** and **10**- The lower the **standard deviation** better it is. So the **stock 1** is better.
+
+ Now there is a **contradiction**, with respect to **mean** **Stock B** is **better**, with represent **standard deviation** **Stock A** is better. 
+ 
+ Now there is a **contradiction** to need to have the **trade off**. In this situation we have to go for this **coefficient of variation**, <ins><b>coefficient of variation = &mu; / &sigma; </ins></b>. For example, for this case; = (4.6 / 29)x 100 = 15.86, for second case = σ2 /μ2 = (10 /84 )x 100 = 11.90. Lower the coefficient of variation, but have the option is. So, if the variance is smaller, to be able to choose that group, or that stock.

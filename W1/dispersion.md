@@ -420,9 +420,9 @@ $$\Large{\color{Purple}\begin{matrix*}[c]
 * Extreme values in one side of a distribution
 ####  $\large{\color{Purple}\underline{\textrm{Kurtosis}}}$
 Peakedness of a distribution
-* Leptokurtic: high and thin
-* Mesokurtic: normal shape
-* Platykurtic: flat and spread out
+* <ins><b>Leptokurtic</ins></b>: high and thin
+* <ins><b>Mesokurtic</ins></b>: normal shape
+* <ins><b>Platykurtic</ins></b>: flat and spread out
 ####  $\large{\color{Purple}\underline{\textrm{Box and Whisker Plots}}}$
 * Graphic display of a distribution
 * Reveals skewness

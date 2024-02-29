@@ -398,6 +398,16 @@ $$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
 *  $\large{\color{Purple}n}$ is **sum of all frequencies (n-1)**.
 
 <p aqlign="center">
- <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/d26c0784-a6ea-4f3f-8ad8-2d4d854080b8" width=90%/>
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/d26c0784-a6ea-4f3f-8ad8-2d4d854080b8" width=80%/>
  <ins></ins><b></b><i></i>
 </p>
+
+$$\Large{\color{Purple}\begin{matrix*}[c]
+ \sigma^2 &=& \dfrac{\sum f \big\(  M-\mu \big\)^2}{N}\\
+ &=& \dfrac{7200}{50}\\
+  &=& 144\\
+ \sigma &=& \sqrt{\sigma^2}\\
+   &=& \sqrt{144}\\
+     &=& 12\\
+\end{matrix*} 
+}$$

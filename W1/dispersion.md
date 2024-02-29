@@ -256,7 +256,7 @@ S &=& \sqrt{221,288.67}\\
 \end{matrix*}}$$
 
 * So, a **square root** of the **variance** is nothing but **standard deviation**.
-* 
+ 
 ### 🔲 $\large{\color{Brown} \ \underline{\textrm{Uses of Standard Deviation:}}}$  
 *  Indicator of financial risk
 *  Quality Control

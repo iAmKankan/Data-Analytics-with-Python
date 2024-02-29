@@ -337,18 +337,19 @@ $$\Large{\color{Purple}C.V = \dfrac{\sigma}{\mu}(100)}$$
 
 It is the measurement of **relative dispersion**. Already there is a **standard deviation** is there. What is the purpose of this **coefficient of variations** that will see the next-
 
-$$\Large{\color{Purple}\begin{matrix*}[c]
+$$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
 \mu_1 &=& 29\\
  \sigma_1 &=& 4.6\\
 C.V._1 &=& \dfrac{\sigma_1}{\mu_1}(100)\\
  &=& \dfrac{4.6}{29}(100)\\
  &=& 15.86\\
-\end{matrix*}
-\hspace{35pt} \hspace{35pt}
+\end{matrix*} }
+\hspace{35pt}
+\boxed{
 \begin{matrix*}[c]
 \mu_2 &=& 84\\
  \sigma_2 &=& 10\\
 C.V._2 &=& \dfrac{\sigma_1}{\mu_1}(100)\\
  &=& \dfrac{10}{84}(100)\\
  &=& 11.90\\
-\end{matrix*}}$$
+\end{matrix*}}}$$

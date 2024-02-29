@@ -231,3 +231,26 @@ S^2 &=& \dfrac{\sum ( X - \bar{X} )^2}{n-1}\\
 * Why we are dividing by **n -1**? the reason is that to make the **variance** as the **unbiased** estimator. This is due to **degrees of freedom**, since we already know the value of the mean will last one **degrees of freedom**.
 * That we are dividing by **n – 1** so it is very important whenever you find the sample variance so the in the denominator there should be a **n-1**.
 * So here the variance is **221,288.67**.
+
+### $\large{\color{Purple}6. \ \underline{\textrm{Sample Standerd Deviation:}}}$  
+
+<div align="center">
+ 
+|$\large{\color{Purple}X}$| $\large{\color{Purple}X - \bar{X}}$ | $\large{\color{Purple}(X - \bar{X} )^2 }$|
+|:----:|:----:|:---:|
+|2398|625|390625|
+|1844|71|5041|
+|1539|-234|54756|
+|1311|-462|213444|
+|$\large{\color{Blue} 7,092}$| $\large{\color{Blue}0}$| $\large{\color{Blue}633,866}$|
+
+</div>
+
+$$\Large{\color{Purple}\begin{matrix*}[c]
+S^2 &=& \dfrac{\sum ( X - \bar{X} )^2}{n-1}\\
+ &=& \dfrac{633,866}{3}\\
+S^2 &=& 221,288.67\\
+S &=& \sqrt{S^2}\\
+S &=& \sqrt{221,288.67}\\
+&=& 470.41
+\end{matrix*}}$$

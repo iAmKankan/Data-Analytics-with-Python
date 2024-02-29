@@ -485,7 +485,7 @@ The skewness of a distribution is measured by comparing the relative positions o
 
 * Summary measure for skewness
   
-$$\large{\color{Purple} S = \dfrac{3(\mu - M_d)}{\sigma}}$$
+$$\Large{\color{Purple} S = \dfrac{3(\mu - M_d)}{\sigma}}$$
 
 * If  **S < 0**, the distribution is <ins><b>negatively skewed<ins><b> (**skewed to the left**)
 * If **S = 0**, the distribution is <ins><b>symmetric<ins><b> (**not skewed**)

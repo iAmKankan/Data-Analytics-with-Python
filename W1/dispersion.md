@@ -441,7 +441,7 @@ Skewness is the **absence of symmetry**. It may be **left skewed data** or a **r
 ####  $\large{\color{Purple}\underline{\textrm{Kurtosis}}}$
 
 <p align="center">
- <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/c61738e0-2bbf-43f6-ad1a-b103eb7c2660" width=35%/>
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/c61738e0-2bbf-43f6-ad1a-b103eb7c2660" width=30%/>
  <br>
  <ins><b><i>Different Types of Kurtosis</i></b></ins> 
 </p>

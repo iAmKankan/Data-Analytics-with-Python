@@ -278,6 +278,11 @@ Suppose the result of an exam Left-skewed distribution is for a overall good sco
  <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/054051ed-646f-4266-92fe-e2f39b1afaa4" width=80%/>
 </p>
 
+<p align="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/0500d150-5b39-424a-836a-c69874bacc76" width=60%/>
+ <ins></ins><b></b><i></i>
+</p>
+
 Now after looking at this hypothetical problem now the question arises when to use **mean**, when to use **median**, **mode**. Well just look at the **location of the median**. The **median** is always in the **middle**. Whether the data is **left skewed** or **right skewed** the **median** is always the **middle**. 
 
 So whenever the data is **skewed** you should go for **median as a central tendency**. If your data is following a **bell-shaped curve** then you can use **mean**, **median**, **mode**.

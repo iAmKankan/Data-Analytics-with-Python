@@ -483,10 +483,39 @@ The skewness of a distribution is measured by comparing the relative positions o
 
 ### 🔲 $\large{\color{Brown}\underline{\textrm{Coefficient of Skewness:}}}$  
 
-* Summary measure for skewness
+* Summary measure for **skewness**
   
 $$\Large{\color{Purple} S = \dfrac{3(\mu - M_d)}{\sigma}}$$
 
-* If  **S < 0**, the distribution is <ins><b>negatively skewed<ins><b> (**skewed to the left**)
-* If **S = 0**, the distribution is <ins><b>symmetric<ins><b> (**not skewed**)
-* If **S > 0**, the distribution is <ins><b>positively skewed<ins><b> (**skewed to the right**)
+* If  **S < 0**, the distribution is <ins><b>negatively skewed</ins></b> (**skewed to the left**)
+* If **S = 0**, the distribution is <ins><b>symmetric</ins></b> (**not skewed**)
+* If **S > 0**, the distribution is <ins><b>positively skewed</ins></b> (**skewed to the right**)
+
+
+#### Example:
+$$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
+\mu_1 &=& 23\\
+M_{d1} &=& 26
+ \sigma_1 &=& 12.3\\
+S_1 &=& \dfrac{3(\mu_1 - M_{d1})}{\sigma_1}\\
+ &=& \dfrac{3(23-26)}{12.3}\\
+ &=& -0.73\\
+\end{matrix*} }
+\hspace{35pt}
+\boxed{\begin{matrix*}[c]
+\mu_1 &=& 23\\
+M_{d1} &=& 26
+ \sigma_1 &=& 12.3\\
+S_1 &=& \dfrac{3(\mu_1 - M_{d1})}{\sigma_1}\\
+ &=& \dfrac{3(23-26)}{12.3}\\
+ &=& -0.73\\
+\end{matrix*} }
+\hspace{35pt}
+\boxed{\begin{matrix*}[c]
+\mu_1 &=& 23\\
+M_{d1} &=& 26
+ \sigma_1 &=& 12.3\\
+S_1 &=& \dfrac{3(\mu_1 - M_{d1})}{\sigma_1}\\
+ &=& \dfrac{3(23-26)}{12.3}\\
+ &=& -0.73\\
+\end{matrix*}}}$$

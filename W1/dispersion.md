@@ -316,3 +316,10 @@ Actually this **1, 2, 3** is nothing but **Z**
 
 
 ### 🔲 $\large{\color{Purple} \ \underline{\textrm{Chebysheff’s Theorem:}}}$  
+
+* A more general interpretation of the **standard deviation** is derived from **Chebysheff's Theorem**, which applies to all shapes of histograms (**not just bell shaped**).
+* The proportion of observations in any sample that lie within k standard deviations of the mean is at least:
+
+For k=2 (say), the theorem states that at least 3/4 of all observations lie within 2 standard deviations of the mean. This is a "lower bound" compared to Empirical Rule's approximation (95%)
+
+1 - 1/(k ^ 2) * fork > 1

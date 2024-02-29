@@ -258,8 +258,8 @@ S &=& \sqrt{221,288.67}\\
 * So, a **square root** of the **variance** is nothing but **standard deviation**.
  
 ### 🔲 $\large{\color{Brown} \ \underline{\textrm{Uses of Standard Deviation:}}}$  
-*  Indicator of financial risk
-*  Quality Control
+* Indicator of financial risk
+* Quality Control
   * construction of quality control charts
   * process capability studies
 * Comparing populations

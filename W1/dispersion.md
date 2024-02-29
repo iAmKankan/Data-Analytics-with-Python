@@ -409,3 +409,6 @@ $$\Large{\color{Purple}\begin{matrix*}[c]
      &=& 12\\
 \end{matrix*} 
 }$$
+
+* So **144** is the **population variants** of this **grouped data**.
+* If you want to know the **standard deviation** of this group of data, just to take the **square root** of the **variance**, that is **12**.

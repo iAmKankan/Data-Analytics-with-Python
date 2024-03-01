@@ -540,3 +540,21 @@ Five specific values are used:
 - Third quartile, <b>Q<sub>3</sub></b>
 - Minimum value in the data set
 - Maximum value in the data set
+
+
+<p align="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/53134287-53d7-4069-8398-de27b5241326" width=40%/>
+ <br>
+ <ins><b><i>Box and Whisker Plot</i></b></ins> 
+</p>
+
+So, this point is would minimum value in this box is a <b>Q<sub>1</sub></b> is the quartile one, <b>Q<sub>2</sub></b> quartile two, <b>Q<sub>3</sub></b> quartile three and then maximum, why its called box and whisker plot. The whisker is look like a whisker of a cat. So it is a box and whisker plot.
+
+
+<p align="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/0458025f-79b6-4c10-85fe-b471fcf8ede1" width=40%/>
+ <br>
+ <ins><b><i>Skewness: Box and Whisker Plot and Coefficient of Skewness</i></b></ins> 
+</p>
+
+You see how the skewness can be measured or identified with the help of box and whisker plot. So by looking at the position of this middle this line, we can identify the distribution. What is that, if it is on the right side of this box it is left skewed data. If it is a left side it is the right skewed data. If it is exactly on the middle, it is symmetric which follow normal distribution. So far, we have given some kind of theories about this various central tendencies and dispersion.

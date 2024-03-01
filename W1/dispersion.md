@@ -481,6 +481,17 @@ The skewness of a distribution is measured by comparing the relative positions o
  <ins><b><i>Different Types of Skewness</i></b></ins> 
 </p>
 
+### 🔲 $\large{\color{Brown}\underline{\textrm{Kurtosis:}}}$  
+
+<p align="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/9ba1f09c-c99f-4704-a6d4-eac3087e341f" width=40%/>
+ <br>
+ <ins><b><i>Different Types of Kurtosis</i></b></ins> 
+</p>
+
+The kurtosis, as I told you, it is a peakedness of a distribution, when they say Leptokurtic, leptokurtic, this one. So it is high and thin, if that means highly homogeneous distribution, the things are very close. This is second one is the Mesokurtic, it is normal shape. The last one is Platykurtic, flat and spread out.
+
+
 ### 🔲 $\large{\color{Brown}\underline{\textrm{Coefficient of Skewness:}}}$  
 
 * Summary measure for **skewness**
@@ -521,3 +532,11 @@ S_3 &=& \dfrac{3(\mu_3 - M_{d3})}{\sigma_3}\\
 \end{matrix*}}}$$
 
 You will see an example. μ1 is 23, median1 is 26, σ1 is 12.3, and you apply this formula, = 3 x (23- 26 )/ 12.3 we are getting negative, so it is a negatively skewed. Go to the middle one μ2 equal to 26, median2 equal to 26, so 26 - 26 = 0. So S2 equal to 0. For this distribution the 118 skewness is 0 or it is symmetric. The right one μ3 equal to 29, median is 26, σ3 is 12.3, and you substitute here we are getting positive value for S3. So the skewness is positive.
+
+### 🔲 $\large{\color{Brown}\underline{\textrm{Box and Whisker Plot:}}}$  
+Five specific values are used:
+- Median, <b>Q<sub>2</sub></b>
+- First quartile, <b>Q<sub>2</sub></b>
+- Third quartile, <b>Q<sub>3</sub></b>
+- Minimum value in the data set
+- Maximum value in the data set

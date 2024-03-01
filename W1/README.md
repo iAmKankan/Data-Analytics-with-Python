@@ -28,6 +28,9 @@ $\large{\color{blue} Note\ Books:}$
 
 Measure of central tendency yield information about **particular places** or **locations** in a **group of numbers**. Suppose there are a group of number, that group of numbers has to be replaced by <ins><b>a single number</ins></b> that single number we can call it as central tendency. <ins><b>That is a single number to describe the characteristics of a set of data</ins></b>.
 
+<p align="center">
+   <img src="https://github.com/iAmKankan/Statistics/assets/12748752/23e2bacf-68dd-4e9d-935d-786b70d17153"width=70%/>
+</p>
 
 ### $\large{\color{Purple}1. \underline{\textrm{Arithmetic mean}}}$
 

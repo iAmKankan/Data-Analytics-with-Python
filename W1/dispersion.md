@@ -4,6 +4,10 @@
 * Reliability of measure of <ins><b>Central Tendency</b></ins> is the <ins><b>Dispersion</ins></b>
 * To compare dispersion of various samples
 
+<p align="center">
+  <img src="https://github.com/iAmKankan/Statistics/assets/12748752/b7a77471-8174-40fd-897a-4a384f3225b2" />
+</p>
+
 The **reliability** of measure of <ins><b>Central Tendency</b></ins> is the <ins><b>Dispersion</ins></b> because many times the <ins><b>Central Tendency</b></ins> will **mislead**. So the **reliability** of that <ins><b>Central Tendency</b></ins> is calculated by or identified by its **corresponding dispersion**.
 
 It is used to compare **dispersion** of various samples that is why whenever you plot the data you not only show the **mean** you have to show the **central tendency** also because the **reliability of mean is explained by dispersion**.

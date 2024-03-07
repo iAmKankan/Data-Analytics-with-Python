@@ -1,4 +1,4 @@
-### $\Large{\color{Purple}\textbf{Index:}}$
+### $\Large{\color{Purple}\underline{\textbf{Index:}}}$
 #### ⬛ [Measures of Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/edit/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmmeasures-of-dispersion)
 1. [Range Grouped data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple1-underlinetextrmrange-ungrouped-data)
 2. [Quartile](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple2-underlinetextrmquartile)

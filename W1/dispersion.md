@@ -9,12 +9,12 @@
 5. [Population Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple5-underlinetextrmpopulation-standerd-deviation)
 6. [Sample Variance](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple6--underlinetextrmsample-variance)
 7. [Sample Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple7--underlinetextrmsample-standerd-deviation)
-8. [Uses of Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrown-underlinetextrmuses-of-standard-deviation)
-9. [Empirical Rule](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmempirical-rule)
-10. [Chebysheff’s Theorem](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmchebysheffs-theorem)
-11. [Coefficient of variation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmcoefficient-of-variation)
-12. [Variance and Standerd Deviation in Grouped Data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmvariance-and-standerd-diviation-of-grouped-data)
-
+8. [Variance and Standerd Deviation in Grouped Data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmvariance-and-standerd-diviation-of-grouped-data)
+#### ⬛ [Uses of Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrown-underlinetextrmuses-of-standard-deviation)
+* [Empirical Rule](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmempirical-rule)
+* [Chebysheff’s Theorem](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmchebysheffs-theorem)    
+### ⬛ [Measurement of Relative Dispersion]
+* [Coefficient of variation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmcoefficient-of-variation)
 #### ⬛ [Measures of Shape](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmmeasures-of-shape)
 1. [Skewness](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmskewness)
 2. [Kurtosis](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmkurtosis)
@@ -286,8 +286,54 @@ S &=& \sqrt{221,288.67}\\
 \end{matrix*}}$$
 
 * So, a **square root** of the **variance** is nothing but **standard deviation**.
- 
-### 🔲 $\large{\color{Brown} \underline{\textrm{Uses of Standard Deviation:}}}$  
+
+### $\large{\color{Purple}8 \underline{\textrm{Variance and Standerd Diviation of Grouped Data:}}}$  
+
+$$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
+& {\color{Brown}\textrm{Population}} &\\
+\hline\\
+ \sigma^2 &=& \dfrac{\sum f \big\(  M-\mu \big\)^2}{N}\\
+ \sigma &=& \sqrt{\sigma^2}\\
+\end{matrix*} }
+\hspace{35pt}
+\boxed{
+\begin{matrix*}[c]
+& {\color{Brown}\textrm{Sample}} &\\
+\hline\\
+ S^2 &=& \dfrac{\sum f \big\(  M - \bar{X} \big\)^2}{n-1}\\
+ S &=& \sqrt{S^2}\\
+\end{matrix*}}}$$
+
+#### For the Population
+*  $\large{\color{Purple}f}$ is the **frequency**.
+*  $\large{\color{Purple} M}$ is the **midpoint of that interval**.
+*  $\large{\color{Purple}\mu}$ is the **mean of the interval**,
+*  $\large{\color{Purple}N}$ is **sum of all frequencies**.
+
+#### For the Sample
+*  $\large{\color{Purple}f}$ is the **frequency**.
+*  $\large{\color{Purple} M}$ is the **midpoint of that interval**.
+*  $\large{\color{Purple}\bar{X}}$ is the **mean of the interval**,
+*  $\large{\color{Purple}n}$ is **sum of all frequencies (n-1)**.
+
+<p align="center">
+ <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/d26c0784-a6ea-4f3f-8ad8-2d4d854080b8" width=80%/>
+ <ins></ins><b></b><i></i>
+</p>
+
+$$\Large{\color{Purple}\begin{matrix*}[c]
+ \sigma^2 &=& \dfrac{\sum f \big\(  M-\mu \big\)^2}{N}\\
+ &=& \dfrac{7200}{50} = 144\\
+ \sigma  &=& \sqrt{144}\\
+     &=& 12\\
+\end{matrix*} 
+}$$
+
+* So **144** is the **population variants** of this **grouped data**.
+* If you want to know the **standard deviation** of this group of data, just to take the **square root** of the **variance**, that is **12**.
+
+
+### ⬛ $\large{\color{Brown} \underline{\textrm{Uses of Standard Deviation:}}}$  
 * Indicator of financial risk
 * Quality Control
   * construction of quality control charts
@@ -359,7 +405,8 @@ $$\Large{\color{Purple}1 - \dfrac{1}{k^ 2} \ \ \ \  for \ \  k > 1}$$
 
 You see the previously; It is 95 %. So you see that that is a given. For k equal to 2, the theorem states that, at least 3/4th of all observations lie within two standard deviation of the mean. This is lower bound compared to empirical rule approximation 95 %. In case the previous slide, if it is 2. We can cover 95% of all observations, but here we can cover only 75% of all observations. Sometime we can use Chebysheff’s theorem also; the data is not following normal distribution.
 
-### 🔲 $\large{\color{Purple} \underline{\textrm{Coefficient of Variation:}}}$  
+### ⬛ $\large{\color{Purple} \underline{\textrm{Measurement of Relative Dispersion}}}$
+### $\large{\color{Purple} \underline{\textrm{Coefficient of Variation:}}}$  
 * **Ratio** of the **standard deviation** to the **mean**, expressed as a **percentage**
 * <ins><b>Measurement of Relative dispersion</ins></b>
 
@@ -397,52 +444,7 @@ C.V._2 &=& \dfrac{\sigma_1}{\mu_1}(100)\\
  * For **stock A** case = <b>&sigma;<sub>1</sub> /  &mu;<sub>1</sub>  = (4.6 / 29)x 100 = 15.86</b>,
  * For **stock B** case = <b>&sigma;<sub>2</sub> /  &mu;<sub>2</sub>  = (10 /84 )x 100 = 11.90</b>.
  * **Lower** the <ins><b>Coefficient of Variation</ins></b>, but have the option is. So, if the Coefficient of variance is smaller that goup here **Stock B** has to be choosen.
-
-### 🔲 $\large{\color{Purple}\underline{\textrm{Variance and Standerd Diviation of Grouped Data:}}}$  
-
-$$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
-& {\color{Brown}\textrm{Population}} &\\
-\hline\\
- \sigma^2 &=& \dfrac{\sum f \big\(  M-\mu \big\)^2}{N}\\
- \sigma &=& \sqrt{\sigma^2}\\
-\end{matrix*} }
-\hspace{35pt}
-\boxed{
-\begin{matrix*}[c]
-& {\color{Brown}\textrm{Sample}} &\\
-\hline\\
- S^2 &=& \dfrac{\sum f \big\(  M - \bar{X} \big\)^2}{n-1}\\
- S &=& \sqrt{S^2}\\
-\end{matrix*}}}$$
-
-#### For the Population
-*  $\large{\color{Purple}f}$ is the **frequency**.
-*  $\large{\color{Purple} M}$ is the **midpoint of that interval**.
-*  $\large{\color{Purple}\mu}$ is the **mean of the interval**,
-*  $\large{\color{Purple}N}$ is **sum of all frequencies**.
-
-#### For the Sample
-*  $\large{\color{Purple}f}$ is the **frequency**.
-*  $\large{\color{Purple} M}$ is the **midpoint of that interval**.
-*  $\large{\color{Purple}\bar{X}}$ is the **mean of the interval**,
-*  $\large{\color{Purple}n}$ is **sum of all frequencies (n-1)**.
-
-<p align="center">
- <img src="https://github.com/iAmKankan/Data-Analytics-with-Python/assets/12748752/d26c0784-a6ea-4f3f-8ad8-2d4d854080b8" width=80%/>
- <ins></ins><b></b><i></i>
-</p>
-
-$$\Large{\color{Purple}\begin{matrix*}[c]
- \sigma^2 &=& \dfrac{\sum f \big\(  M-\mu \big\)^2}{N}\\
- &=& \dfrac{7200}{50} = 144\\
- \sigma  &=& \sqrt{144}\\
-     &=& 12\\
-\end{matrix*} 
-}$$
-
-* So **144** is the **population variants** of this **grouped data**.
-* If you want to know the **standard deviation** of this group of data, just to take the **square root** of the **variance**, that is **12**.
-
+ 
 ### ⬛ $\large{\color{Brown}\underline{\textrm{Measures of Shape:}}}$  
 
 #### <ins><b>Skewness</ins></b>

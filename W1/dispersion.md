@@ -19,7 +19,9 @@
 1. [Skewness](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmskewness)
 2. [Kurtosis](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmkurtosis)
 3. [Coefficient of Skewness](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmcoefficient-of-skewness)
-4 [Box and Whisker plot](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmbox-and-whisker-plot)
+4. [Box and Whisker plot](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmbox-and-whisker-plot)
+
+![purple](https://user-images.githubusercontent.com/12748752/222924060-e23b649f-6c41-4045-a496-0460ef411324.png)
  
 ### ⬛ $\large{\color{Purple}\underline{\textrm{Measures of Dispersion:}}}$
 * **Measures of variability** describe the **spread** or the <ins><b>Dispersion</ins></b> of a set of data.

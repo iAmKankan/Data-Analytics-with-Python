@@ -12,7 +12,7 @@
 8. [Uses of Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrown-underlinetextrmuses-of-standard-deviation)
 9. [Empirical Rule](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmempirical-rule)
 10. [Chebysheff’s Theorem](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmchebysheffs-theorem)
-11. [coefficient of variation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmcoefficient-of-variation)
+11. [Coefficient of variation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmcoefficient-of-variation)
 12. [Variance and Standerd Deviation in Grouped Data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmvariance-and-standerd-diviation-of-grouped-data)
 
 #### ⬛ [Measures of Shape](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmmeasures-of-shape)

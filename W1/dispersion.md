@@ -360,12 +360,12 @@ $$\Large{\color{Purple}1 - \dfrac{1}{k^ 2} \ \ \ \  for \ \  k > 1}$$
 You see the previously; It is 95 %. So you see that that is a given. For k equal to 2, the theorem states that, at least 3/4th of all observations lie within two standard deviation of the mean. This is lower bound compared to empirical rule approximation 95 %. In case the previous slide, if it is 2. We can cover 95% of all observations, but here we can cover only 75% of all observations. Sometime we can use Chebysheff’s theorem also; the data is not following normal distribution.
 
 ### 🔲 $\large{\color{Purple} \underline{\textrm{Coefficient of Variation:}}}$  
-* Ratio of the standard deviation to the mean, expressed as a percentage
-* Measurement of relative dispersion
+* **Ratio** of the **standard deviation** to the **mean**, expressed as a **percentage**
+* <ins><b>Measurement of Relative dispersion</ins></b>
 
 $$\Large{\color{Purple}C.V = \dfrac{\sigma}{\mu}(100)}$$
 
-It is the measurement of **relative dispersion**. Already there is a **standard deviation** is there. What is the purpose of this **coefficient of variations** that will see the next-
+It is the <ins><b>measurement of Relative dispersion</ins></b>. Already there is a <ins><b>Standard Deviation</ins></b> is there. What is the purpose of this **coefficient of variations** that will see the next-
 
 $$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
 \mu_1 &=& 29\\

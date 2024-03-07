@@ -1,3 +1,7 @@
+### Inddex
+#### ⬛ [Central Tendency](https://github.com/iAmKankan/Data-Analytics-with-Python/edit/main/W1/README.md)
+#### ⬛ [Measures of Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md)
+  
 $\large{\color{blue} Note\ Books:}$
 * [Python Tutorial 001](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/Python_Basics_NPTEL.ipynb)
 * [Central Tendency and Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/Central_Tendency_and_Dispersion_prac.ipynb)

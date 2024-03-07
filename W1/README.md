@@ -1,5 +1,6 @@
 $\large{\color{blue} Note\ Books:}$
 * [Python Tutorial 001](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/Python_Basics_NPTEL.ipynb)
+* [Central Tendency and Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/Central_Tendency_and_Dispersion_prac.ipynb)
 
 ### ⬛ $\Large{\color{blue}\underline{\mathcal{Central\ Tendency\ and\ Dispersion}}}$
 ### $\large{\color{Purple}\textrm{Objective:}}$

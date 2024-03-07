@@ -1,6 +1,6 @@
 ### Index
 
-### ⬛ $\Large{\color{Blue}\underline{\mathcal{Introduction to Probability}}}$
+### ⬛ $\Large{\color{Blue}\underline{\mathcal{Introduction\ to\ Probability}}}$
 ### $\Large{\color{purple}\underline{\textrm{Agenda}}}$
 * Comprehend the different ways of assigning probability
 * Understand and apply marginal, union, joint, and conditional probabilities

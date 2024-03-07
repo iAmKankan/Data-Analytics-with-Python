@@ -13,7 +13,7 @@
 #### ⬛ [Uses of Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrown-underlinetextrmuses-of-standard-deviation)
 * [Empirical Rule](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmempirical-rule)
 * [Chebysheff’s Theorem](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmchebysheffs-theorem)    
-### ⬛ [Measurement of Relative Dispersion]
+#### ⬛ [Measurement of Relative Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/edit/main/W1/dispersion.md#-largecolorpurple-underlinetextrmmeasurement-of-relative-dispersion)
 * [Coefficient of variation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmcoefficient-of-variation)
 #### ⬛ [Measures of Shape](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmmeasures-of-shape)
 1. [Skewness](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmskewness)

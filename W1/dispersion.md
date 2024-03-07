@@ -180,7 +180,7 @@ M.A.D &=& \dfrac{\sum \mid X - \mu \mid}{N}\\
   &=& 4.8\\
 \end{matrix*}}$$
 
-### $\large{\color{Purple}4\ \underline{\textrm{Population Variance:}}}$  
+### $\large{\color{Purple}4. \ \underline{\textrm{Population Variance:}}}$  
 There was a problem in the **mean absolute deviation**.
 
 <div align="center">
@@ -287,7 +287,7 @@ S &=& \sqrt{221,288.67}\\
 
 * So, a **square root** of the **variance** is nothing but **standard deviation**.
 
-### $\large{\color{Purple}8 \underline{\textrm{Variance and Standerd Diviation of Grouped Data:}}}$  
+### $\large{\color{Purple}8. \underline{\textrm{Variance and Standerd Diviation of Grouped Data:}}}$  
 
 $$\Large{\color{Purple}\boxed{\begin{matrix*}[c]
 & {\color{Brown}\textrm{Population}} &\\

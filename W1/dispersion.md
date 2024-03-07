@@ -1,4 +1,5 @@
 ### $\Large{\color{Purple}\textbf{Index:}}$
+#### ⬛ [Measures of Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/edit/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmmeasures-of-dispersion)
 1. [Range Grouped data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple1-underlinetextrmrange-ungrouped-data)
 2. [Quartile](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple2-underlinetextrmquartile)
    * [Inter-quartile range](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple21--underlinetextrminter-quartile-range)
@@ -13,13 +14,14 @@
 10. [Chebysheff’s Theorem](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmchebysheffs-theorem)
 11. [coefficient of variation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmcoefficient-of-variation)
 12. [Variance and Standerd Deviation in Grouped Data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmvariance-and-standerd-diviation-of-grouped-data)
-13. [Measures of Shape](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmmeasures-of-shape)
-14. [Skewness](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmskewness)
-15. [Kurtosis](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmkurtosis)
-16. [Coefficient of Skewness](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmcoefficient-of-skewness)
-17. [Box and Whisker plot](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmbox-and-whisker-plot)
+
+#### ⬛ [Measures of Shape](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmmeasures-of-shape)
+1. [Skewness](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmskewness)
+2. [Kurtosis](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmkurtosis)
+3. [Coefficient of Skewness](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmcoefficient-of-skewness)
+4 [Box and Whisker plot](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmbox-and-whisker-plot)
  
-### 🔲 $\large{\color{Purple}\underline{\textrm{Measures of Dispersion:}}}$
+### ⬛ $\large{\color{Purple}\underline{\textrm{Measures of Dispersion:}}}$
 * **Measures of variability** describe the **spread** or the <ins><b>Dispersion</ins></b> of a set of data.
 * Reliability of measure of <ins><b>Central Tendency</b></ins> is the <ins><b>Dispersion</ins></b>
 * To compare dispersion of various samples
@@ -437,7 +439,7 @@ $$\Large{\color{Purple}\begin{matrix*}[c]
 * So **144** is the **population variants** of this **grouped data**.
 * If you want to know the **standard deviation** of this group of data, just to take the **square root** of the **variance**, that is **12**.
 
-### 🔲 $\large{\color{Brown}\underline{\textrm{Measures of Shape:}}}$  
+### ⬛ $\large{\color{Brown}\underline{\textrm{Measures of Shape:}}}$  
 
 #### <ins><b>Skewness</ins></b>
 * Absence of symmetry

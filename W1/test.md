@@ -1,37 +1,4 @@
-#### ⬛ [Measure of Central Tendency](https://github.com/iAmKankan/Data-Analytics-with-Python/tree/main/W1#-largecolorpurpleunderlinetextrmmeasures-of-central-tendency)
-1. [Arithmetic Mean](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurple1-underlinetextrmarithmetic-mean)
-    * [Population mean](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurpleunderlinetextrmpopulation-mean----large-mu)
-    * [Sample Mean](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurpleunderlinetextrmsample-mean----large-barx)
-    * [Mean of Grouped Data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurpleunderlinetextrmmean-of-grouped-data)
-2. [Weighted Average](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurple2-underlinetextrmweighted-average)
-3. [Median](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurple3-underlinetextrmmedian)
-    * [Computation of Median](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurpleunderlinetextrmmedian-computational-procedure)
-    * [Median Grouped Data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurpleunderlinetextrmmedian-of-gouped-data)
-4. [Mode](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurple4-underlinetextrmmode)
-5. [Percentile](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurple5-underlinetextrmpercentile)
-#### ⬛ [When to use Mean or Median or Mode?](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#-largecolorbrownunderlinetextrmwhen-to-use-mean-or-median-or-mode)
-#### ⬛ [Measures of Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/edit/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmmeasures-of-dispersion)
-1. [Range Grouped data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple1-underlinetextrmrange-ungrouped-data)
-2. [Quartile](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple2-underlinetextrmquartile)
-   * [Inter-quartile range](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple21--underlinetextrminter-quartile-range)
-3. [Deviation from the mean](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple3-underlinetextrmdeviation-from-the-mean)
-   * [Mean Absolute Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple31-underlinetextrmmean-absolute-deviation)
-4. [Population Variance](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple4-underlinetextrmpopulation-variance)
-5. [Population Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple5-underlinetextrmpopulation-standerd-deviation)
-6. [Sample Variance](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple6--underlinetextrmsample-variance)
-7. [Sample Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple7--underlinetextrmsample-standerd-deviation)
-8. [Variance and Standerd Deviation in Grouped Data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmvariance-and-standerd-diviation-of-grouped-data)
-#### ⬛ [Uses of Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrown-underlinetextrmuses-of-standard-deviation)
-* [Empirical Rule](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmempirical-rule)
-* [Chebysheff’s Theorem](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmchebysheffs-theorem)    
-#### ⬛ [Measurement of Relative Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/edit/main/W1/dispersion.md#-largecolorpurple-underlinetextrmmeasurement-of-relative-dispersion)
-* [Coefficient of variation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmcoefficient-of-variation)
-#### ⬛ 
   
-#### ⬛ $\large{\color{blue}Jupyter\  Note\ Books:}$
-* [Python Tutorial 001](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/Python_Basics_NPTEL.ipynb)
-* [Central Tendency and Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/Central_Tendency_and_Dispersion_prac.ipynb)
-
 
 | <h3>[Measure of Central Tendency](https://github.com/iAmKankan/Data-Analytics-with-Python/tree/main/W1#-largecolorpurpleunderlinetextrmmeasures-of-central-tendency) </h3> | <h3> [Measures of Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/edit/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmmeasures-of-dispersion)</h3> |
 |----------------------------------------------|----------------------------------------------|
@@ -39,6 +6,10 @@
 | |[Uses of Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrown-underlinetextrmuses-of-standard-deviation)<ul><li>[Empirical Rule](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmempirical-rule) </li> <li>[Chebysheff’s Theorem](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmchebysheffs-theorem)</li> </ul>| 
 | |[Measurement of Relative Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/edit/main/W1/dispersion.md#-largecolorpurple-underlinetextrmmeasurement-of-relative-dispersion)<ul><li>[Coefficient of variation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmcoefficient-of-variation)</li></ul>|
 | |[Measures of Shape](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmmeasures-of-shape)<ul><li>[Skewness](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmskewness)</li> <li>[Kurtosis](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmkurtosis) </li> <li>[Coefficient of Skewness](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmcoefficient-of-skewness) </li> <li>[Box and Whisker plot](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmbox-and-whisker-plot)</li> </ul>|
+
+#### ⬛ $\large{\color{blue}Jupyter\  Note\ Books:}$
+* [Python Tutorial 001](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/Python_Basics_NPTEL.ipynb)
+* [Central Tendency and Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/Central_Tendency_and_Dispersion_prac.ipynb)
 
 
 

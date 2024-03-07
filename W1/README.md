@@ -12,7 +12,7 @@
 5. [Percentile](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurple5-underlinetextrmpercentile)
 #### ⬛ [When to use Mean or Median or Mode?](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#-largecolorbrownunderlinetextrmwhen-to-use-mean-or-median-or-mode)
   
-#### ⬛ $\large{\color{blue} Note\ Books:}$
+#### ⬛ $\large{\color{blue}Jupyter\  Note\ Books:}$
 * [Python Tutorial 001](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/Python_Basics_NPTEL.ipynb)
 * [Central Tendency and Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/Central_Tendency_and_Dispersion_prac.ipynb)
 
@@ -285,7 +285,28 @@ Mode  &=& L_{Mo}+ \dfrac{d_1}{d_1+d_2} w\\
 * $\large{\color{Purple}d_1}$ is **present frequency** is **18** and the **previous frequency** is **6**, $\large{\color{Purple} (18 - 6 )= 12}$
 * $\large{\color{Purple}d_2}$ is the difference between your **18** and **next frequency** **11**  that is $\large{\color{Purple} (18 - 11 )= 7}$.
 * Your **width** is **10**,
-* So **36.31** is the mode of your **grouped data**. 
+* So **36.31** is the mode of your **grouped data**.
+  
+### $\large{\color{Purple}5. \underline{\textrm{Percentile:}}}$
+* Measures of **central tendency** that <ins><b>divide a group of data into 100 parts</ins></b>.
+   * Example: <b>90<sup>th</sup> percentile</b> indicates that at most **90%** of the data **lie below it**, and at least **10%** of the data **lie above it**.
+* The <ins><b>Median</ins></b> and the <b>50<sup>th</sup> percentile</b> have the **same value**.
+* Applicable for **ordinal**, **interval**, and **ratio** data .
+* Not applicable for **nominal data**.
+
+**Percentile is having some advantage over Percentage:**  <ins><b>Percentage is absolute term</ins></b> but the <ins><b>Percentile is the relative term</ins></b>. The <ins><b>measure of central tendency</ins></b> that divide a group of data into **100 parts times the fequency of the data** it is called Percentile.
+
+### $\large{\color{Purple}\underline{\textrm{Percentile Computational Precedure}}}$
+* Organize the data into an **ascending ordered array** Calculate the <b>p<sup>th</sup></b> percentile location:  $\large{\color{Purple}i = \dfrac{P}{100} \times n}$
+* Determine the **percentile's location** and its **value**.
+* If **i** is a <ins><b>whole number</ins></b>, the **percentile** is the <ins><b>average of the values</ins></b> at the **i** and (**i+1**) positions.
+* If **i** is not a <ins><b>whole number</ins></b>, the **percentile** is at the **(i + 1)** position in that **ordered array**.
+  
+### $\large{\color{Purple}\underline{\textrm{Example: Percentile}}}$
+* $\large{\color{Purple}\textrm{Raw Data: 14, 12, 19, 23, 5, 13, 28, 17}}$, let's make it ordered with $\large{\color{Purple} len = 8}$ -
+*  $\large{\color{Purple}\textrm{Ordered Array:} \boldsymbol{\[} 5, 12, 13, 14, 17, 19, 23, 28 \boldsymbol{\]} }$   
+* Location of <b>30<sup>th</sup></b> **percentile**:  $\large{\color{Purple}i = \dfrac{30}{100} \times (8) = 2.4}$
+* The **location index - i** is not a **whole number**;  $\large{\color{Purple}(i + 1) = (2.4 + 1) = 3.4}$ the **whole number portion** is **3**; the <b>30<sup>th</sup></b> **percentile** is at the <b>3<sup>rd</sup></b> location of the **array**; the <b>30<sup>th</sup></b> **percentile = 13**.
 
 ### 🔲 $\large{\color{brown}\underline{\textrm{When to use Mean or Median or Mode?}}}$
 
@@ -308,27 +329,5 @@ So whenever the data is **skewed** you should go for **median as a central tende
 There is no problem at all the clue for that choosing the correct central is first you have to **plot that curve** go to plot the data outer plotting the data you have to get an idea of the **skewness of the data set**.
 
 If it is skewed data you go for **median as the center tendency**. If it is following a **bell-shaped curve** you go for **mean or median or mode as a central tendency**.
-
-
-### $\large{\color{Purple}5. \underline{\textrm{Percentile:}}}$
-* Measures of **central tendency** that <ins><b>divide a group of data into 100 parts</ins></b>.
-   * Example: <b>90<sup>th</sup> percentile</b> indicates that at most **90%** of the data **lie below it**, and at least **10%** of the data **lie above it**.
-* The <ins><b>Median</ins></b> and the <b>50<sup>th</sup> percentile</b> have the **same value**.
-* Applicable for **ordinal**, **interval**, and **ratio** data .
-* Not applicable for **nominal data**.
-
-**Percentile is having some advantage over Percentage:**  <ins><b>Percentage is absolute term</ins></b> but the <ins><b>Percentile is the relative term</ins></b>. The <ins><b>measure of central tendency</ins></b> that divide a group of data into **100 parts times the fequency of the data** it is called Percentile.
-
-### $\large{\color{Purple}\underline{\textrm{Percentile Computational Precedure}}}$
-* Organize the data into an **ascending ordered array** Calculate the <b>p<sup>th</sup></b> percentile location:  $\large{\color{Purple}i = \dfrac{P}{100} \times n}$
-* Determine the **percentile's location** and its **value**.
-* If **i** is a <ins><b>whole number</ins></b>, the **percentile** is the <ins><b>average of the values</ins></b> at the **i** and (**i+1**) positions.
-* If **i** is not a <ins><b>whole number</ins></b>, the **percentile** is at the **(i + 1)** position in that **ordered array**.
-  
-### $\large{\color{Purple}\underline{\textrm{Example: Percentile}}}$
-* $\large{\color{Purple}\textrm{Raw Data: 14, 12, 19, 23, 5, 13, 28, 17}}$, let's make it ordered with $\large{\color{Purple} len = 8}$ -
-*  $\large{\color{Purple}\textrm{Ordered Array:} \boldsymbol{\[} 5, 12, 13, 14, 17, 19, 23, 28 \boldsymbol{\]} }$   
-* Location of <b>30<sup>th</sup></b> **percentile**:  $\large{\color{Purple}i = \dfrac{30}{100} \times (8) = 2.4}$
-* The **location index - i** is not a **whole number**;  $\large{\color{Purple}(i + 1) = (2.4 + 1) = 3.4}$ the **whole number portion** is **3**; the <b>30<sup>th</sup></b> **percentile** is at the <b>3<sup>rd</sup></b> location of the **array**; the <b>30<sup>th</sup></b> **percentile = 13**.
 
 ### [Next page](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md)

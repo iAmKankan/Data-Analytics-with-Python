@@ -14,3 +14,17 @@ $\Large Definition:$ Probability is the numerical measure of the likelihood that
 * The sum of the probabilities of all mutually exclusive and collectively exhaustive events is $\large{\color{purple}1}$.
    * $\large{\color{purple} P * (A) + P(B) + P(C) = 1}$
    * $\large{\color{purple}A}$, $\large{\color{purple}B}$ and $\large{\color{purple}C}$ are mutually exclusive and collectively exhaustive
+
+### 🔲 $\Large{\color{purple}\underline{\textrm{Methods of Assigning Probabilities}}}$
+1. Classical method of assigning probability (**rules** and **laws**)
+2. Relative frequency of occurrence (cumulated historical data)
+3. Subjective Probability (personal intuition or reasoning)
+
+### $\Large{\color{purple}1. \underline{\textrm{ Classical Method of Assigning Probability }}}$
+* Number of outcomes leading to the event divided by the total number of outcomes possible
+* Each outcome is <ins><b>equally likely</ins></b>
+* Determined a priori -- before performing the experiment
+* Applicable to games of chance
+* Objective -- everyone correctly using the method assigns an identical probability
+
+   

@@ -59,8 +59,6 @@ It is used to compare **dispersion** of various samples that is why whenever you
 6. Z scores
 7. Coefficient of Variation
 
-[purple](https://user-images.githubusercontent.com/12748752/222924060-e23b649f-6c41-4045-a496-0460ef411324.png)
-
 ### $\large{\color{Purple}1.\ \underline{\textrm{Range: Ungrouped Data}}}$  
 * The **difference** between the **largest** and the **smallest values** in a set of data.
 * Simple to compute

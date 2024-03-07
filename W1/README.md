@@ -1,8 +1,18 @@
 ### Inddex
-#### ⬛ [Central Tendency](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#-largecolorpurpleunderlinetextrmmeasures-of-central-tendency)
-#### ⬛ [Measures of Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md)
+#### ⬛ [Measure of Central Tendency](https://github.com/iAmKankan/Data-Analytics-with-Python/tree/main/W1#-largecolorpurpleunderlinetextrmmeasures-of-central-tendency)
+1. [Arithmetic Mean](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurple1-underlinetextrmarithmetic-mean)
+    * [Population mean](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurpleunderlinetextrmpopulation-mean----large-mu)
+    * [Sample Mean](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurpleunderlinetextrmsample-mean----large-barx)
+    * [Mean of Grouped Data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurpleunderlinetextrmmean-of-grouped-data)
+2. [Weighted Average](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurple2-underlinetextrmweighted-average)
+3. [Median](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurple3-underlinetextrmmedian)
+    * [Computation of Median](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurpleunderlinetextrmmedian-computational-procedure)
+    * [Median Grouped Data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurpleunderlinetextrmmedian-of-gouped-data)
+4. [Mode](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurple4-underlinetextrmmode)
+5. [Percentile](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#largecolorpurple5-underlinetextrmpercentile)
+#### ⬛ [When to use Mean or Median or Mode?](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#-largecolorbrownunderlinetextrmwhen-to-use-mean-or-median-or-mode)
   
-$\large{\color{blue} Note\ Books:}$
+#### ⬛ $\large{\color{blue} Note\ Books:}$
 * [Python Tutorial 001](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/Python_Basics_NPTEL.ipynb)
 * [Central Tendency and Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/Central_Tendency_and_Dispersion_prac.ipynb)
 

@@ -1,5 +1,5 @@
 ### Inddex
-#### ⬛ [Central Tendency](https://github.com/iAmKankan/Data-Analytics-with-Python/edit/main/W1/README.md)
+#### ⬛ [Central Tendency](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/README.md#-largecolorpurpleunderlinetextrmmeasures-of-central-tendency)
 #### ⬛ [Measures of Dispersion](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md)
   
 $\large{\color{blue} Note\ Books:}$

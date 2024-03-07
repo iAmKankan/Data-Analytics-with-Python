@@ -1,4 +1,24 @@
-### Index:
+### $\Large{\color{Purple}\textbf{Index:}}$
+1. [Range Grouped data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple1-underlinetextrmrange-ungrouped-data)
+2. [Quartile](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple2-underlinetextrmquartile)
+   * [Inter-quartile range](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple21--underlinetextrminter-quartile-range)
+3. [Deviation from the mean](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple3-underlinetextrmdeviation-from-the-mean)
+   * [Mean Absolute Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple31-underlinetextrmmean-absolute-deviation)
+4. [Population Variance](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple4-underlinetextrmpopulation-variance)
+5. [Population Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple5-underlinetextrmpopulation-standerd-deviation)
+6. [Sample Variance](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple6--underlinetextrmsample-variance)
+7. [Sample Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#largecolorpurple7--underlinetextrmsample-standerd-deviation)
+8. [Uses of Standerd Deviation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrown-underlinetextrmuses-of-standard-deviation)
+9. [Empirical Rule](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmempirical-rule)
+10. [Chebysheff’s Theorem](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmchebysheffs-theorem)
+11. [coefficient of variation](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurple-underlinetextrmcoefficient-of-variation)
+12. [Variance and Standerd Deviation in Grouped Data](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorpurpleunderlinetextrmvariance-and-standerd-diviation-of-grouped-data)
+13. [Measures of Shape](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmmeasures-of-shape)
+14. [Skewness](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmskewness)
+15. [Kurtosis](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmkurtosis)
+16. [Coefficient of Skewness](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmcoefficient-of-skewness)
+17. [Box and Whisker plot](https://github.com/iAmKankan/Data-Analytics-with-Python/blob/main/W1/dispersion.md#-largecolorbrownunderlinetextrmbox-and-whisker-plot)
+ 
 ### 🔲 $\large{\color{Purple}\underline{\textrm{Measures of Dispersion:}}}$
 * **Measures of variability** describe the **spread** or the <ins><b>Dispersion</ins></b> of a set of data.
 * Reliability of measure of <ins><b>Central Tendency</b></ins> is the <ins><b>Dispersion</ins></b>
